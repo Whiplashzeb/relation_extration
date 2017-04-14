@@ -1,0 +1,4602 @@
+passage:227508
+1	8	nmod	compound	0
+3	8	nsubj	compound	0
+10	40	nmod	compound	0
+8	14	nmod	compound	0
+1	14	nmod	compound	1
+47	64	amod	compound	0
+31	64	nsubj	compound	0
+
+passage:354896
+1	3	amod	root	1
+6	29	nmod	nmod	0
+13	31	nmod	nmod	0
+
+passage:435349
+3	7	compound	conj	1
+8	27	nsubjpass	compound	0
+
+passage:603022
+5	27	appos	dobj	1
+17	27	nsubjpass	dobj	0
+
+passage:1378968
+2	14	amod	nmod	1
+2	40	amod	nmod	0
+32	40	amod	nmod	0
+9	13	nsubj	nmod	0
+3	13	nsubj	compound	1
+2	13	nsubj	dobj	1
+9	27	compound	nmod	0
+6	27	compound	nmod	0
+1	26	amod	nsubjpass	0
+12	26	amod	nmod	1
+18	26	amod	nmod	1
+
+passage:1420741
+11	15	nmod	nmod	0
+2	15	nmod	nmod	0
+15	35	compound	nmod	0
+9	26	nsubj	compound	0
+6	33	nmod	nmod	0
+
+passage:1601297
+6	10	compound	nmod	0
+8	19	compound	compound	0
+20	28	compound	nmod	0
+9	28	compound	nmod	0
+21	28	compound	nmod	1
+13	28	compound	nmod	1
+
+passage:1967484
+1	3	amod	root	1
+3	21	amod	nsubjpass	0
+1	21	amod	nsubjpass	0
+9	18	compound	dobj	1
+2	11	amod	nmod	1
+
+passage:2234245
+9	11	dobj	root	0
+17	31	dobj	compound	1
+22	37	compound	nmod	0
+8	27	nmod	nsubj	0
+11	18	dobj	nsubj	1
+
+passage:2385256
+5	8	compound	compound	1
+9	21	compound	nmod	0
+5	21	compound	xcomp	0
+1	21	compound	nmod	0
+5	31	compound	nmod	1
+3	31	compound	nsubjpass	0
+6	20	nmod	xcomp	0
+
+passage:2505783
+6	14	nsubj	nmod	0
+
+passage:2515254
+6	30	nmod	compound	1
+2	22	nmod	compound	1
+8	28	nmod	compound	1
+11	36	nmod	nmod	0
+29	36	nmod	compound	1
+
+passage:2572625
+1	4	amod	root	1
+10	28	nmod	nmod	0
+12	28	nmod	dobj	1
+15	28	compound	nmod	0
+17	28	compound	dobj	0
+14	26	nmod	nmod	1
+20	26	nmod	nmod	0
+5	25	compound	nsubj	1
+3	25	nmod	nsubj	0
+
+passage:2632720
+8	10	compound	root	1
+7	17	nmod	nmod	0
+2	17	nmod	dobj	1
+8	41	compound	dobj	1
+14	41	compound	dobj	0
+6	20	nmod	nmod	1
+
+passage:2670794
+13	24	nmod	nmod	0
+9	24	appos	nmod	0
+14	40	appos	nmod	1
+20	40	appos	nmod	0
+16	40	appos	nmod	0
+16	20	nmod	nsubjpass	0
+10	20	nmod	nsubjpass	0
+47	53	nsubj	nsubjpass	0
+
+passage:2696505
+2	12	nsubj	dobj	1
+6	12	nmod	dobj	1
+1	28	amod	nsubjpass	1
+4	28	amod	nsubjpass	1
+7	27	nmod	dobj	0
+20	27	nmod	nmod	1
+
+passage:2924746
+18	23	compound	dep	0
+1	23	compound	dep	0
+19	34	appos	dobj	0
+13	34	appos	nmod	0
+15	30	appos	nmod	1
+2	30	nmod	nmod	0
+27	38	nmod	nmod	0
+8	38	amod	nmod	0
+2	38	amod	nmod	1
+17	38	nmod	nmod	0
+
+passage:2951327
+4	112	nmod	nmod	1
+22	112	nmod	dep	0
+2	112	compound	dep	0
+18	112	nmod	dep	0
+16	112	compound	nmod	0
+8	112	nmod	nmod	1
+
+passage:3192036
+
+passage:3409645
+10	25	nmod	nsubjpass	1
+
+passage:3412544
+4	8	nsubj	dobj	1
+1	8	nsubj	dobj	0
+19	42	nmod	dobj	1
+14	42	nmod	dobj	1
+7	35	nmod	nmod	1
+8	35	nmod	nmod	0
+5	33	compound	nmod	0
+17	33	compound	nmod	0
+1	33	compound	nmod	1
+
+passage:3425586
+1	13	amod	root	1
+9	35	nmod	nmod	0
+8	35	nmod	dobj	1
+9	35	nmod	nmod	0
+3	36	nsubj	dobj	1
+
+passage:3437726
+19	41	nmod	dobj	0
+
+passage:3693336
+2	11	amod	nmod	1
+8	11	amod	compound	0
+5	16	nmod	nmod	1
+10	16	nmod	compound	0
+7	12	nmod	compound	1
+
+passage:3780846
+4	17	nmod	nmod	1
+4	15	nmod	nmod	1
+7	25	nmod	dobj	1
+12	52	nmod	conj	1
+6	52	nmod	dobj	1
+23	40	nsubjpass	nmod	1
+1	9	nsubj	dobj	1
+11	35	nmod	nsubjpass	1
+
+passage:3800626
+1	13	amod	compound	1
+10	15	compound	compound	1
+8	17	amod	nsubjpass	1
+2	17	amod	nmod	1
+45	57	amod	compound	1
+
+passage:3827439
+3	6	nmod	root	1
+7	23	compound	dobj	1
+14	23	compound	nmod	0
+8	23	compound	nmod	0
+17	24	nsubj	nmod	1
+
+passage:3997294
+3	14	compound	nmod	0
+5	33	nmod	compound	0
+20	33	nmod	nmod	0
+6	37	nmod	nmod	1
+17	37	compound	nmod	0
+
+passage:4071154
+1	7	amod	root	0
+9	27	compound	nmod	1
+2	27	compound	nmod	1
+14	27	compound	nmod	1
+18	27	compound	nmod	0
+1	27	compound	nmod	1
+3	24	nmod	nmod	1
+
+passage:6103707
+4	16	nmod	nsubj	1
+
+passage:6229975
+1	11	compound	nmod	0
+16	30	dep	nmod	0
+2	17	amod	nmod	0
+16	19	compound	nmod	0
+
+passage:6286738
+1	6	compound	root	0
+17	50	nmod	nmod	1
+9	50	nmod	nmod	1
+21	33	nmod	nmod	0
+2	31	compound	nmod	0
+7	50	nsubjpass	dobj	0
+35	50	nsubjpass	nmod	0
+
+passage:6287825
+6	25	nmod	nmod	0
+2	25	nmod	nmod	0
+14	25	nmod	nmod	1
+18	25	nmod	nmod	1
+5	10	nsubj	nmod	0
+
+passage:6386793
+6	18	nmod	nmod	0
+13	24	nsubj	compound	0
+10	24	nsubj	compound	0
+10	22	nsubj	nmod	0
+7	22	nsubj	nmod	0
+8	31	nmod	nmod	1
+13	31	nmod	nmod	0
+6	31	nmod	nmod	0
+15	31	nmod	nmod	1
+13	24	compound	compound	0
+21	24	nsubjpass	compound	0
+7	24	nmod	compound	0
+
+passage:6387529
+7	15	nmod	nmod	0
+3	15	nmod	nmod	0
+7	15	nmod	nmod	0
+11	15	nmod	nmod	0
+46	68	nmod	nmod	0
+6	68	nmod	nmod	0
+10	68	nmod	nmod	0
+50	68	nmod	nmod	0
+9	13	nmod	nsubj	1
+7	13	nmod	nsubj	1
+
+passage:6692345
+2	26	amod	nmod	1
+13	26	nmod	nmod	0
+5	26	amod	nmod	1
+20	26	nmod	nmod	0
+14	49	nmod	nmod	0
+16	49	nmod	nmod	0
+
+passage:6773726
+2	9	nmod	nmod	0
+3	9	nmod	nmod	1
+25	34	nmod	compound	0
+28	34	nmod	nmod	0
+34	58	nmod	compound	0
+35	58	nmod	nmod	0
+
+passage:6888657
+2	10	amod	nmod	0
+12	24	dep	nsubj	1
+2	25	amod	dobj	0
+
+passage:7265370
+4	6	compound	root	0
+1	6	compound	root	1
+12	19	compound	nmod	1
+1	19	compound	nmod	0
+1	14	compound	dobj	1
+
+passage:7423039
+2	6	compound	nmod	1
+1	18	nmod	compound	1
+
+passage:7444978
+1	11	nmod	compound	0
+12	62	nmod	nmod	1
+42	62	nmod	nsubj	1
+
+passage:7834920
+1	11	compound	nmod	0
+6	11	compound	nsubj	1
+9	29	nmod	nmod	1
+5	31	nmod	nmod	0
+11	31	nmod	nmod	0
+1	31	nmod	nmod	0
+15	31	nmod	nmod	1
+2	23	nmod	nmod	1
+
+passage:7881871
+2	9	amod	nmod	1
+5	26	appos	dobj	1
+11	26	appos	dobj	1
+20	26	compound	dobj	0
+14	26	compound	dobj	0
+4	16	compound	dobj	1
+2	16	compound	nmod	1
+
+passage:7930386
+1	9	amod	nsubj	1
+6	34	compound	nmod	1
+
+passage:7988234
+5	8	nmod	root	1
+5	11	compound	nmod	1
+5	21	nsubjpass	nmod	1
+9	13	compound	nsubj	0
+4	13	nmod	nsubj	0
+
+passage:8073369
+8	22	nsubj	dobj	1
+8	13	compound	nsubj	0
+3	13	nmod	nsubj	0
+5	35	compound	nsubj	1
+2	19	amod	nmod	1
+
+passage:8302922
+5	11	nmod	dobj	1
+1	11	nmod	dobj	1
+9	48	appos	dobj	1
+29	48	compound	dobj	1
+1	48	nmod	dobj	1
+3	45	nmod	nmod	1
+26	45	dobj	nmod	1
+7	21	nsubj	compound	1
+6	21	nsubj	compound	1
+
+passage:8410052
+9	21	nmod	nsubjpass	0
+3	8	amod	nmod	1
+5	8	amod	nsubjpass	1
+
+passage:8423889
+4	7	compound	nmod	1
+8	20	compound	nmod	0
+13	20	compound	nmod	0
+10	20	nmod	nmod	1
+5	20	nmod	nmod	0
+4	17	nmod	compound	0
+5	17	amod	compound	0
+
+passage:8682684
+1	3	amod	root	1
+4	11	nmod	dobj	0
+6	19	nsubjpass	nmod	0
+9	19	nsubjpass	nmod	1
+5	19	nmod	nmod	1
+11	19	nmod	compound	0
+3	18	dobj	nmod	1
+
+passage:9625142
+11	15	nmod	nsubj	1
+2	15	nmod	nsubj	1
+5	12	dobj	dobj	1
+10	38	nmod	nmod	0
+18	38	dobj	nmod	0
+
+passage:9766615
+37	51	dep	nmod	1
+9	51	dep	compound	0
+15	51	dep	appos	0
+17	51	dep	appos	0
+3	51	dep	dobj	1
+
+passage:10193204
+9	16	nmod	nmod	0
+5	16	nmod	nmod	0
+13	16	nmod	nmod	0
+1	16	nmod	nmod	0
+12	37	appos	conj	0
+26	37	nmod	conj	0
+22	37	nmod	conj	0
+21	37	nmod	conj	0
+9	37	appos	nmod	1
+17	37	nmod	conj	0
+5	37	nmod	nmod	0
+7	37	appos	conj	0
+1	37	nmod	nmod	0
+15	57	dep	nmod	0
+9	57	nmod	nmod	0
+5	57	nmod	nmod	0
+14	24	nmod	nsubj	0
+13	24	nmod	nsubj	0
+7	21	nmod	compound	0
+1	21	nmod	nsubj	0
+13	21	nmod	compound	0
+7	21	nmod	nsubj	0
+
+passage:10526274
+13	21	dobj	compound	0
+5	21	root	compound	0
+4	21	nmod	compound	0
+12	44	nmod	nmod	0
+20	44	appos	nmod	0
+20	35	nmod	nsubjpass	0
+2	35	dobj	nsubjpass	0
+8	35	nmod	nmod	0
+16	35	nmod	nsubjpass	0
+10	35	dobj	nmod	0
+4	35	nmod	nmod	0
+30	37	dobj	nmod	0
+
+passage:10669626
+1	10	amod	nsubjpass	1
+7	10	nmod	nsubjpass	0
+7	49	nmod	nmod	1
+3	49	compound	nmod	0
+22	49	compound	compound	0
+12	49	nmod	compound	0
+4	20	amod	nmod	1
+20	27	nmod	nmod	0
+14	20	compound	nsubjpass	1
+2	44	amod	nmod	1
+2	32	nmod	dobj	0
+14	32	nmod	nmod	1
+2	78	amod	nmod	1
+19	78	nmod	nmod	0
+2	18	amod	nmod	1
+9	18	compound	nmod	0
+1	17	nmod	nmod	1
+5	17	nmod	nmod	0
+5	22	nmod	dobj	0
+9	36	nmod	dobj	0
+6	36	compound	dobj	0
+4	39	compound	nmod	0
+7	39	amod	nmod	0
+2	41	nsubj	dobj	0
+4	41	nmod	dobj	0
+10	44	nsubj	compound	0
+19	44	nmod	compound	0
+32	44	nmod	compound	0
+7	34	nmod	nmod	1
+5	34	nmod	nmod	0
+14	34	ccomp	nmod	0
+23	34	compound	compound	0
+
+passage:11379838
+3	11	amod	compound	1
+14	28	nmod	compound	1
+21	101	dep	compound	1
+31	101	dep	compound	0
+12	101	compound	compound	1
+28	63	nmod	compound	1
+
+passage:11419773
+1	10	amod	root	0
+16	29	nmod	dobj	1
+21	29	nmod	nmod	0
+
+passage:11581460
+9	16	nmod	root	1
+10	20	compound	dobj	1
+1	20	compound	dobj	0
+11	20	compound	dobj	1
+9	20	compound	dobj	1
+15	24	nmod	nmod	1
+7	24	nmod	dobj	0
+
+passage:11706060
+4	15	dobj	dobj	0
+5	15	dobj	compound	0
+7	31	appos	appos	0
+3	31	appos	nmod	0
+13	31	appos	nmod	0
+27	52	nmod	compound	0
+28	52	nmod	compound	0
+17	52	nmod	compound	0
+24	45	nmod	nmod	0
+15	45	compound	nmod	0
+2	16	nmod	dobj	0
+5	16	nmod	compound	0
+
+passage:11752354
+4	7	root	nmod	1
+5	28	nmod	nmod	1
+63	116	appos	dobj	0
+73	116	appos	dobj	0
+60	116	nsubj	dobj	1
+56	116	nmod	dobj	0
+80	116	nmod	dobj	0
+70	116	appos	dobj	0
+8	59	nmod	nmod	1
+7	60	dobj	nmod	1
+7	20	dobj	nmod	1
+
+passage:12369736
+3	20	amod	nmod	1
+4	38	nmod	nmod	1
+4	19	nmod	dobj	1
+14	19	nsubj	dobj	0
+2	50	nsubj	nsubjpass	1
+35	50	appos	nsubjpass	1
+30	50	appos	nsubjpass	0
+
+passage:12639165
+2	29	nmod	compound	1
+3	9	amod	nmod	1
+
+passage:12653683
+11	18	compound	nmod	0
+2	18	amod	nmod	1
+6	17	compound	nmod	0
+5	20	appos	dobj	1
+8	33	compound	nmod	0
+4	33	compound	nmod	0
+11	33	nmod	nmod	1
+4	19	compound	nmod	0
+14	41	nmod	nmod	0
+2	41	amod	nmod	1
+
+passage:14659530
+7	22	appos	compound	0
+17	22	compound	compound	0
+1	22	amod	compound	0
+12	43	appos	compound	0
+14	43	appos	nmod	0
+2	43	nmod	compound	1
+23	43	appos	compound	0
+3	43	appos	nmod	0
+11	43	nmod	nmod	0
+18	49	compound	compound	1
+19	26	compound	nmod	0
+10	22	compound	compound	0
+11	22	compound	nmod	0
+17	22	compound	compound	0
+10	22	compound	compound	0
+25	30	compound	compound	0
+18	30	nmod	compound	1
+4	30	nmod	nmod	0
+8	30	nmod	nmod	0
+11	28	compound	dobj	0
+5	28	compound	dobj	0
+10	28	compound	dobj	0
+6	28	compound	dobj	0
+
+passage:15804801
+6	8	amod	root	1
+13	22	amod	dobj	1
+
+passage:16160878
+2	21	nmod	dobj	0
+5	21	nmod	dobj	0
+8	32	nmod	appos	0
+3	32	amod	appos	1
+12	32	compound	appos	0
+6	14	nsubjpass	nmod	0
+
+passage:16274958
+3	5	conj	root	1
+6	17	nmod	nmod	1
+2	13	amod	nmod	1
+
+passage:16330766
+9	35	nmod	compound	0
+16	34	amod	nmod	0
+1	34	amod	nmod	1
+
+passage:16574712
+6	12	compound	advcl	1
+11	18	appos	nsubjpass	1
+
+passage:17111419
+2	9	compound	root	0
+3	15	compound	nmod	0
+6	21	compound	nmod	0
+3	21	nsubj	nmod	1
+6	19	nsubj	dobj	0
+8	19	ccomp	dobj	0
+12	26	compound	nmod	1
+2	26	compound	nmod	0
+
+passage:17175308
+3	10	nmod	root	1
+8	21	compound	nsubjpass	1
+4	23	compound	dobj	1
+44	58	nmod	nmod	1
+8	58	nmod	nmod	0
+24	58	nmod	dep	0
+6	58	nmod	appos	0
+32	58	nmod	appos	0
+26	58	nmod	appos	0
+29	58	nmod	appos	0
+6	16	nmod	nsubj	1
+
+passage:17244258
+2	16	amod	nmod	1
+2	22	amod	nmod	1
+
+passage:18020536
+5	43	nmod	nmod	1
+37	43	nmod	nmod	1
+8	43	nmod	appos	1
+18	43	nmod	nmod	1
+
+passage:18023325
+5	7	compound	root	1
+3	21	compound	nmod	0
+11	21	compound	nmod	1
+6	21	compound	nsubj	1
+6	26	compound	dobj	0
+20	26	compound	nmod	0
+
+passage:18208574
+5	15	amod	dobj	1
+2	15	amod	nmod	1
+13	35	compound	nmod	1
+18	35	compound	appos	1
+25	65	nmod	nmod	1
+
+passage:18343374
+4	7	amod	nsubj	1
+7	17	appos	nmod	1
+5	15	nmod	dep	1
+5	18	nmod	dobj	1
+16	29	compound	compound	0
+4	29	compound	nsubj	1
+5	19	nmod	nmod	1
+1	26	nmod	compound	0
+
+passage:18417364
+1	7	amod	nsubj	1
+1	11	amod	appos	1
+1	21	nmod	nsubj	0
+
+passage:18442015
+4	12	nmod	compound	0
+2	12	nmod	nmod	0
+8	12	nmod	compound	0
+6	50	nmod	dobj	1
+22	50	appos	nmod	0
+9	50	nmod	nmod	1
+21	50	appos	dobj	0
+10	50	nmod	dobj	1
+16	50	appos	dobj	0
+5	50	nmod	nmod	1
+15	50	nmod	dobj	1
+11	50	nmod	dobj	1
+5	14	nmod	compound	0
+6	26	dobj	dobj	1
+3	26	dobj	dobj	1
+4	28	compound	compound	0
+10	28	compound	compound	0
+16	23	nmod	compound	0
+5	23	nmod	compound	1
+14	33	compound	amod	0
+8	33	compound	amod	0
+3	21	nmod	nmod	0
+5	21	nmod	compound	0
+5	21	nmod	nmod	0
+8	16	nmod	compound	0
+4	16	nmod	amod	0
+15	32	compound	nsubj	0
+13	32	compound	dobj	0
+12	32	compound	compound	0
+23	32	nmod	compound	0
+24	32	nmod	dobj	0
+26	32	nmod	nsubj	0
+
+passage:18619688
+1	15	amod	nsubj	0
+10	15	amod	nmod	1
+6	18	nmod	nsubj	1
+14	18	root	nsubj	0
+12	33	nmod	nmod	1
+14	24	appos	compound	0
+4	24	nmod	compound	1
+14	20	nmod	nsubj	0
+5	20	nmod	nmod	1
+3	18	nmod	nmod	1
+
+passage:19308880
+8	19	nmod	root	1
+7	13	nmod	nsubj	1
+4	20	nmod	nmod	1
+4	18	nmod	nmod	1
+9	16	compound	nsubj	1
+1	22	nmod	nsubj	1
+
+passage:19631624
+7	17	compound	dep	0
+1	37	amod	dobj	0
+1	22	nmod	compound	0
+
+passage:20003049
+12	20	nmod	nmod	0
+1	20	amod	nmod	1
+15	20	nmod	nmod	0
+2	20	amod	nmod	1
+6	40	amod	nmod	1
+9	40	amod	appos	1
+3	26	dobj	nmod	0
+8	26	dobj	compound	0
+29	60	compound	dep	0
+5	35	nmod	nmod	0
+9	20	compound	dobj	0
+
+passage:20196116
+1	18	compound	root	1
+8	20	compound	appos	1
+33	45	dep	dep	0
+
+passage:20470218
+25	60	compound	dobj	0
+8	60	compound	nmod	0
+26	60	compound	dobj	0
+23	60	compound	compound	0
+27	60	compound	dobj	0
+
+passage:20722491
+9	45	appos	nmod	0
+12	29	nmod	appos	0
+8	19	nmod	conj	1
+10	19	nmod	conj	1
+7	19	nmod	root	1
+4	19	nmod	conj	1
+6	19	nmod	conj	1
+
+passage:20882060
+2	14	amod	nmod	1
+3	14	nmod	nmod	0
+3	15	nmod	nmod	0
+2	15	amod	nmod	1
+1	16	amod	dobj	1
+6	16	nmod	dobj	0
+
+passage:26094
+5	19	compound	nmod	1
+4	19	compound	compound	0
+
+passage:322550
+2	11	amod	nmod	1
+18	24	compound	dobj	0
+1	24	compound	dobj	1
+15	24	compound	dobj	0
+4	24	compound	dobj	0
+16	27	nsubj	dobj	1
+27	37	compound	dobj	1
+10	37	appos	dobj	0
+
+passage:869641
+10	15	compound	nmod	0
+5	15	nmod	nmod	0
+11	33	nsubj	nsubjpass	0
+8	33	nmod	nsubjpass	0
+25	33	nmod	nsubjpass	1
+9	23	compound	compound	0
+5	23	nmod	compound	1
+6	23	nmod	compound	0
+13	23	nsubj	compound	0
+14	23	nsubj	compound	0
+10	23	compound	compound	0
+1	21	nsubj	dobj	0
+3	21	nmod	dobj	1
+3	22	nmod	dobj	1
+1	22	nsubj	dobj	0
+1	13	nsubj	dobj	0
+
+passage:1749407
+1	10	amod	root	1
+2	21	nsubj	nmod	1
+13	29	amod	appos	1
+9	29	compound	appos	0
+15	21	amod	nmod	0
+1	17	nmod	dep	0
+
+passage:1786266
+3	14	compound	nsubj	0
+
+passage:1835291
+5	11	nmod	nmod	0
+1	11	nmod	nmod	0
+35	47	compound	appos	0
+27	47	compound	appos	0
+10	18	nsubj	nmod	0
+5	18	nmod	nmod	0
+
+passage:1919871
+14	27	nmod	appos	1
+18	27	nmod	appos	1
+
+passage:1987816
+1	17	amod	nsubj	1
+
+passage:2054792
+8	15	nmod	compound	0
+2	15	nmod	nmod	0
+10	23	amod	nmod	0
+1	23	amod	compound	0
+6	23	amod	nmod	0
+1	22	amod	compound	0
+13	22	amod	nsubj	0
+3	31	amod	nsubjpass	0
+1	31	amod	compound	0
+4	31	amod	nsubj	0
+
+passage:2304736
+1	3	amod	root	1
+4	17	nmod	nmod	1
+4	30	dobj	nmod	1
+11	30	dobj	nsubj	0
+
+passage:2312209
+4	7	nmod	root	1
+18	23	compound	nsubj	0
+12	23	compound	dobj	1
+
+passage:2549018
+1	9	amod	root	1
+8	15	dobj	nmod	0
+4	15	dobj	nmod	0
+9	15	dobj	dobj	1
+22	33	amod	nsubj	0
+26	33	amod	nmod	1
+2	24	amod	nmod	1
+5	31	nmod	nsubj	0
+4	31	nmod	nsubj	1
+6	35	amod	nmod	0
+2	35	amod	nmod	1
+
+passage:2611118
+3	6	compound	nsubj	0
+2	21	nmod	dobj	1
+7	28	nmod	dobj	1
+
+passage:2673163
+3	6	compound	nsubj	0
+2	21	compound	nmod	0
+2	18	compound	nsubj	0
+7	75	amod	nmod	1
+2	75	amod	nmod	0
+4	75	amod	nmod	0
+9	75	amod	nmod	0
+13	75	amod	nmod	0
+
+passage:3107448
+1	3	amod	root	1
+9	14	nmod	nsubjpass	0
+8	15	nsubj	nmod	0
+11	15	nmod	nmod	1
+7	16	compound	amod	1
+11	16	compound	nmod	0
+4	11	nsubj	amod	1
+
+passage:3341566
+2	15	amod	nmod	1
+5	15	amod	nmod	0
+11	40	dep	dep	0
+20	23	compound	nmod	1
+18	23	compound	amod	0
+26	37	compound	nmod	1
+14	37	compound	compound	0
+4	51	compound	nmod	1
+3	51	compound	compound	0
+
+passage:3564823
+3	7	nmod	nsubj	0
+5	17	nsubjpass	dobj	0
+11	26	nsubjpass	dobj	0
+
+passage:3676049
+6	17	amod	nmod	0
+2	17	amod	nmod	1
+9	27	amod	nmod	0
+2	27	amod	nmod	1
+15	27	nmod	nmod	0
+4	27	nmod	nmod	0
+13	83	compound	nmod	0
+21	83	compound	nmod	0
+25	83	nmod	nmod	0
+30	83	nmod	nmod	0
+15	35	nmod	dobj	1
+20	35	nsubjpass	dobj	0
+5	15	compound	nmod	0
+
+passage:3719553
+3	5	compound	root	0
+3	26	nmod	nmod	1
+2	26	amod	nmod	1
+1	26	amod	nmod	0
+18	26	amod	nmod	0
+6	26	nmod	nsubj	0
+17	26	nmod	nmod	0
+21	26	amod	nsubj	0
+7	26	nmod	nmod	0
+8	26	amod	nmod	0
+16	26	nmod	nmod	0
+10	15	nsubj	nmod	0
+6	15	nsubj	nmod	0
+
+passage:4008111
+1	3	amod	root	1
+11	21	compound	nmod	0
+5	21	compound	dobj	1
+12	21	compound	nmod	0
+5	21	compound	nmod	0
+11	21	nmod	nmod	0
+5	21	nmod	nmod	1
+
+passage:6133211
+5	24	nmod	nmod	0
+8	24	nmod	dobj	0
+
+passage:6503301
+3	10	appos	nmod	0
+4	10	appos	root	1
+4	18	appos	nmod	0
+7	18	appos	nmod	1
+
+passage:6727060
+2	8	nmod	nmod	1
+1	41	dobj	nmod	0
+21	41	dobj	nsubj	1
+3	16	compound	nsubj	1
+
+passage:7083920
+6	21	compound	nmod	0
+7	21	compound	nmod	1
+1	21	compound	nmod	0
+5	18	compound	dobj	0
+
+passage:7269015
+1	4	amod	root	1
+3	10	amod	nmod	1
+7	25	compound	conj	1
+1	25	amod	conj	1
+8	30	nmod	dobj	0
+
+passage:7352670
+1	10	nmod	dobj	0
+4	10	nmod	dobj	0
+3	29	nmod	dobj	1
+9	29	compound	dobj	1
+18	29	compound	dobj	0
+4	23	compound	dobj	0
+11	23	amod	dobj	0
+5	22	nmod	compound	1
+1	22	nmod	compound	1
+6	22	compound	compound	0
+
+passage:7504976
+15	18	nmod	nsubj	0
+11	18	nmod	nsubj	1
+6	13	appos	dobj	1
+4	13	appos	compound	1
+9	15	dobj	compound	1
+3	15	dobj	dep	1
+8	22	appos	dobj	0
+12	22	dobj	dobj	1
+
+passage:7628595
+2	17	nmod	dobj	0
+6	17	compound	dobj	0
+3	17	compound	dobj	0
+12	27	compound	dobj	0
+5	27	appos	dobj	1
+9	27	compound	dobj	0
+31	60	nmod	compound	0
+54	60	nmod	compound	0
+12	60	dobj	compound	0
+3	16	compound	nmod	0
+6	16	compound	nmod	0
+1	39	amod	dobj	0
+14	39	compound	dobj	0
+11	39	compound	dobj	0
+
+passage:7858459
+6	13	nmod	nsubj	1
+10	13	nmod	nsubj	1
+13	28	dobj	nmod	0
+4	28	nmod	nmod	0
+12	28	compound	nmod	0
+10	28	dep	nmod	0
+20	44	compound	nmod	1
+23	44	compound	nmod	1
+26	44	compound	nmod	0
+27	44	compound	nmod	1
+29	44	compound	nmod	0
+30	44	compound	nmod	1
+9	20	nsubj	nsubjpass	0
+2	20	nmod	nsubjpass	0
+20	29	compound	nmod	0
+10	29	nmod	nmod	0
+22	29	nmod	nmod	0
+16	29	compound	nmod	0
+2	29	compound	nmod	0
+12	16	root	nmod	0
+
+passage:7862923
+9	26	dobj	compound	0
+13	26	nsubjpass	compound	0
+14	26	dobj	nmod	0
+11	26	nmod	compound	0
+5	26	nmod	nmod	0
+3	26	dobj	compound	0
+15	26	dobj	nmod	0
+9	26	dobj	nmod	0
+8	26	dobj	compound	0
+7	26	nsubjpass	nmod	0
+
+passage:7919560
+4	8	nmod	nsubj	1
+1	8	nmod	nsubj	1
+5	15	nmod	nmod	1
+2	15	nmod	nmod	1
+5	18	nmod	nmod	0
+1	18	nmod	nmod	0
+10	16	nmod	nsubj	0
+2	16	nmod	nmod	0
+
+passage:8092427
+2	5	nmod	root	1
+5	14	compound	nmod	0
+12	53	compound	nsubj	0
+5	53	appos	nsubj	1
+5	53	compound	nsubj	0
+4	13	compound	nmod	0
+3	19	compound	nmod	1
+7	19	nmod	nmod	0
+12	37	nmod	nmod	0
+18	43	nmod	compound	1
+7	16	compound	nmod	1
+5	16	nsubj	compound	0
+
+passage:8638206
+5	13	nmod	root	1
+14	28	nmod	nmod	1
+6	35	nsubjpass	nmod	1
+2	22	amod	nmod	1
+
+passage:8669433
+6	16	nmod	nmod	0
+5	16	nmod	nmod	1
+13	42	nmod	nmod	1
+8	51	nmod	nmod	0
+5	32	nsubj	nmod	0
+9	32	nsubj	nmod	1
+5	26	nmod	nmod	0
+
+passage:8690168
+2	16	amod	nmod	1
+8	16	amod	nmod	0
+27	37	amod	nmod	0
+6	37	dobj	nmod	0
+8	37	nmod	nmod	0
+8	31	appos	compound	0
+6	31	compound	nmod	0
+
+passage:8739323
+42	55	conj	compound	0
+43	55	conj	compound	0
+7	55	appos	compound	0
+31	55	conj	compound	0
+4	20	nsubj	nsubj	0
+8	20	nsubj	nsubj	0
+1	20	nmod	nsubj	0
+
+passage:8752018
+1	13	amod	root	1
+6	13	nmod	root	0
+11	17	nsubj	nmod	0
+10	42	compound	nmod	1
+11	42	compound	nmod	1
+5	42	compound	nmod	0
+10	21	nmod	nmod	1
+3	21	nmod	compound	0
+8	21	nmod	nmod	0
+1	21	nmod	compound	0
+3	34	nmod	dobj	1
+13	34	nsubj	compound	0
+5	34	nsubj	dobj	0
+5	34	nmod	compound	0
+13	27	nmod	dobj	1
+8	27	nsubj	compound	0
+17	27	nsubj	dobj	0
+4	27	nmod	compound	0
+
+passage:9390208
+22	32	compound	dep	0
+12	32	nmod	dep	0
+15	32	dep	dobj	0
+17	32	nmod	dep	0
+11	32	dep	dep	0
+14	32	nmod	dobj	0
+4	32	compound	dobj	0
+9	32	nmod	dobj	0
+24	51	nmod	nmod	0
+5	51	nmod	nmod	0
+17	51	nmod	nmod	0
+7	18	compound	dobj	0
+
+passage:9406968
+1	20	amod	compound	1
+12	20	compound	compound	0
+5	44	appos	dobj	1
+28	44	compound	dobj	0
+26	44	appos	dobj	0
+8	21	dobj	dobj	1
+1	42	amod	compound	1
+32	42	amod	nsubj	0
+21	42	compound	nsubj	0
+12	42	compound	compound	0
+
+passage:9587734
+2	10	amod	conj	0
+1	10	amod	root	1
+14	28	nmod	nmod	0
+12	28	nmod	compound	1
+5	28	nmod	nmod	1
+6	14	nmod	nmod	1
+7	14	nmod	nmod	1
+5	38	nmod	nmod	1
+5	19	nmod	nsubjpass	0
+2	19	nmod	nmod	1
+
+passage:9698967
+35	52	compound	nmod	1
+5	52	compound	nmod	0
+43	52	compound	nsubjpass	1
+29	52	compound	nmod	0
+25	52	compound	nmod	0
+26	52	compound	nmod	0
+39	52	compound	nmod	1
+9	52	compound	nmod	0
+39	52	compound	nsubjpass	1
+27	52	compound	nmod	0
+31	52	compound	nmod	0
+30	52	compound	nmod	0
+
+passage:9855119
+11	80	compound	appos	1
+8	80	compound	appos	0
+6	21	compound	dobj	1
+34	47	compound	nmod	0
+41	47	compound	nmod	1
+2	47	compound	nsubj	1
+26	37	compound	compound	0
+17	37	compound	compound	1
+3	44	compound	nsubj	1
+
+passage:9869257
+2	40	nmod	dobj	1
+16	40	nsubj	dobj	0
+15	40	nmod	dobj	1
+13	31	nsubj	dobj	0
+
+passage:10342929
+2	10	nmod	nsubj	1
+4	17	compound	nmod	1
+
+passage:10457883
+
+passage:10739826
+7	12	nmod	nmod	1
+16	39	compound	appos	1
+5	60	nmod	nmod	1
+
+passage:10791295
+2	15	amod	nmod	1
+2	32	amod	nmod	1
+12	33	compound	nmod	1
+3	35	amod	nmod	1
+
+passage:11147747
+2	4	root	conj	1
+3	12	dobj	dobj	1
+6	38	compound	dobj	0
+2	38	nmod	dobj	1
+11	38	nmod	dobj	1
+23	38	nmod	dobj	1
+10	26	dobj	nmod	1
+2	20	nmod	nsubjpass	1
+
+passage:11198499
+6	20	nmod	nmod	0
+12	20	nmod	nmod	0
+4	20	nmod	root	1
+10	20	nmod	root	0
+11	25	nmod	nmod	0
+11	39	nmod	dobj	0
+14	39	nmod	dobj	1
+4	39	nmod	dobj	1
+8	39	appos	dobj	0
+25	39	appos	nmod	0
+10	39	nmod	nmod	0
+28	39	nmod	nmod	0
+11	39	appos	dobj	0
+7	39	nmod	dobj	0
+18	29	compound	nmod	0
+14	29	compound	nmod	0
+
+passage:11391224
+8	21	amod	dep	0
+10	21	amod	dep	0
+14	21	amod	nmod	0
+12	21	amod	compound	0
+6	21	amod	dep	0
+1	21	amod	nmod	1
+
+passage:11426838
+1	28	amod	dobj	1
+5	28	dep	dobj	0
+19	43	appos	dobj	0
+3	43	nmod	dobj	0
+6	41	nmod	dobj	1
+11	41	nsubjpass	dobj	0
+
+passage:11569530
+19	23	dep	nsubj	1
+16	23	dep	nsubj	1
+12	24	appos	nsubjpass	0
+11	24	appos	nsubjpass	1
+6	24	appos	nsubjpass	1
+4	24	dep	nsubjpass	1
+4	43	appos	dobj	1
+8	43	dep	dobj	1
+6	43	compound	dobj	1
+
+passage:11587867
+7	15	compound	root	0
+14	28	compound	nmod	0
+
+passage:11679859
+12	26	nmod	nmod	1
+4	25	nmod	nmod	1
+10	24	nmod	nmod	0
+2	24	nmod	nmod	0
+9	24	nmod	nmod	0
+4	30	nsubjpass	nmod	1
+5	33	nmod	nmod	0
+9	33	nmod	nmod	0
+
+passage:12041669
+2	8	amod	nmod	1
+4	8	root	nmod	0
+4	15	compound	nmod	1
+1	15	compound	nmod	0
+2	12	amod	nmod	1
+6	12	nmod	nmod	0
+
+passage:12198388
+11	22	compound	amod	0
+2	21	compound	nmod	0
+9	37	dobj	nmod	0
+20	37	dobj	nmod	0
+8	37	dobj	nmod	0
+6	11	nsubjpass	nmod	0
+19	27	nmod	compound	1
+18	27	nmod	compound	1
+2	27	nmod	compound	1
+18	37	nsubj	nmod	0
+17	34	compound	nmod	0
+
+passage:12574103
+7	11	compound	dep	1
+1	11	compound	dep	1
+9	22	nsubj	dobj	1
+2	22	nsubj	dobj	1
+8	61	dobj	dobj	1
+35	43	dobj	dobj	1
+22	43	dobj	dobj	1
+11	21	dobj	nmod	0
+4	27	nsubj	nmod	1
+20	27	nsubj	nmod	1
+19	27	nsubj	nmod	0
+
+passage:12615818
+8	22	nmod	nmod	1
+5	22	dobj	nmod	1
+26	39	dep	appos	0
+13	39	dep	nmod	0
+18	39	dep	nmod	0
+17	39	dep	nmod	0
+14	39	dep	nmod	0
+27	39	dep	appos	0
+4	26	nmod	appos	1
+7	26	nmod	appos	1
+3	50	advcl	nmod	1
+8	50	advcl	nmod	0
+15	50	advcl	nmod	0
+9	50	advcl	nmod	0
+6	38	nmod	nmod	0
+13	38	nmod	nmod	0
+6	38	nmod	nmod	1
+12	38	nmod	nmod	0
+
+passage:12789195
+5	9	nmod	nsubj	0
+8	20	nmod	nmod	0
+8	16	compound	nmod	0
+
+passage:12820454
+26	63	dep	nmod	1
+5	63	dep	nmod	1
+
+passage:14657095
+4	7	compound	nsubj	1
+8	26	appos	dobj	1
+3	26	appos	nmod	0
+13	26	appos	dobj	1
+2	14	nmod	nsubjpass	1
+2	14	nmod	nsubjpass	0
+7	15	nmod	dobj	0
+
+passage:14765563
+21	37	nsubj	nmod	0
+17	32	dobj	nmod	1
+16	32	dobj	nmod	1
+4	32	dobj	nmod	1
+2	32	dobj	dobj	0
+
+passage:15036754
+1	7	amod	root	0
+3	7	amod	nmod	0
+26	31	appos	nsubj	0
+3	31	nmod	nsubj	0
+6	12	nmod	compound	0
+2	12	amod	compound	0
+16	31	nmod	nmod	0
+25	31	nsubjpass	nmod	0
+20	31	nsubjpass	nmod	0
+19	31	nsubjpass	nmod	0
+2	11	compound	nmod	0
+6	11	nsubj	nmod	0
+8	33	nmod	nmod	0
+15	33	nmod	dobj	0
+9	33	nmod	nmod	0
+13	33	nsubj	dobj	0
+6	33	nsubj	nmod	0
+4	33	nsubj	nmod	0
+2	33	nmod	dobj	0
+12	33	nsubj	dobj	0
+7	33	nsubj	nmod	0
+2	33	nsubj	dobj	0
+
+passage:15145918
+5	15	amod	nmod	0
+2	15	nmod	nmod	0
+16	36	nsubj	compound	0
+1	36	nmod	compound	0
+4	32	nsubj	dobj	1
+1	32	nsubj	dobj	1
+2	18	compound	nmod	1
+8	18	nmod	nmod	1
+12	18	compound	nmod	0
+3	18	compound	nsubjpass	1
+16	27	compound	nmod	1
+16	27	compound	nmod	0
+
+passage:15233872
+2	10	nmod	nmod	0
+2	10	amod	nmod	1
+5	19	nmod	dobj	0
+
+passage:15458908
+14	24	compound	nmod	0
+6	38	nsubjpass	nmod	1
+55	58	nsubj	nmod	0
+54	58	nsubj	nmod	0
+4	58	nsubj	nmod	0
+53	58	nsubj	nmod	0
+25	31	nsubjpass	appos	0
+24	31	nsubjpass	appos	0
+15	31	nsubjpass	nmod	0
+6	31	nsubjpass	nmod	1
+18	31	nsubjpass	appos	0
+
+passage:15737522
+1	7	amod	root	1
+1	13	nsubj	nmod	1
+8	33	compound	nmod	1
+
+passage:16005948
+7	15	compound	nmod	0
+8	16	nmod	nmod	0
+8	18	compound	nmod	0
+25	42	compound	appos	1
+32	42	compound	nmod	0
+2	42	compound	nmod	0
+3	11	amod	dobj	0
+
+passage:16167916
+5	28	compound	nmod	1
+
+passage:16403073
+1	11	nsubj	dobj	1
+3	25	dobj	dobj	1
+3	25	dobj	nmod	0
+9	25	dobj	dobj	1
+15	25	dobj	nmod	0
+1	25	nsubj	dobj	1
+7	17	nsubjpass	nmod	1
+
+passage:16755009
+4	15	dep	parataxis	1
+5	15	nsubj	parataxis	1
+3	25	nmod	dobj	1
+19	25	nmod	dobj	1
+1	25	nsubj	dobj	0
+16	37	appos	nmod	0
+10	37	nsubj	nmod	0
+
+passage:16904497
+4	10	compound	root	0
+8	27	compound	nmod	0
+7	19	nmod	nmod	0
+11	19	nmod	nmod	1
+5	15	compound	nmod	0
+
+passage:16938416
+3	10	nsubjpass	nmod	1
+5	38	compound	dobj	1
+11	38	compound	dobj	0
+4	23	compound	nmod	0
+12	23	compound	nmod	0
+3	31	compound	dobj	1
+
+passage:17147461
+1	5	amod	root	1
+2	5	amod	conj	1
+17	20	nsubj	nmod	1
+19	25	nsubj	amod	1
+2	21	nsubjpass	nmod	1
+7	21	nsubjpass	nmod	1
+2	24	amod	nmod	1
+4	29	nmod	nsubj	1
+30	66	nmod	nsubj	1
+8	66	compound	nsubj	0
+
+passage:17241784
+8	11	compound	nsubj	1
+2	19	nsubj	dobj	1
+2	27	nsubj	dobj	1
+2	25	nsubj	dobj	1
+10	35	nmod	nmod	1
+
+passage:17261653
+1	30	dep	dep	1
+
+passage:17343925
+4	26	nsubjpass	nmod	1
+
+passage:17400887
+6	14	compound	root	0
+4	14	compound	conj	0
+5	14	compound	nmod	1
+8	22	nsubjpass	dobj	0
+15	22	nsubjpass	nmod	1
+
+passage:17612891
+2	6	nmod	nsubj	1
+7	28	nmod	nmod	1
+4	18	nmod	nmod	1
+9	18	nmod	nmod	0
+9	15	nmod	nsubj	1
+9	35	nmod	nmod	0
+
+passage:18081909
+2	8	nmod	nsubj	1
+4	8	nmod	nsubj	1
+5	17	compound	dobj	1
+2	30	nmod	dobj	0
+10	30	appos	dobj	0
+9	19	compound	compound	0
+
+passage:18083142
+2	13	amod	nmod	1
+7	13	compound	nmod	0
+3	31	nmod	nmod	1
+32	48	compound	nmod	0
+2	48	amod	nmod	1
+19	48	appos	nmod	0
+3	30	nsubj	amod	1
+17	24	compound	nsubjpass	0
+1	24	amod	nsubjpass	1
+12	24	nmod	nsubjpass	0
+7	54	nmod	amod	0
+1	54	amod	amod	1
+13	54	nmod	amod	0
+5	54	parataxis	amod	0
+2	19	amod	nmod	1
+
+passage:18182964
+1	6	root	nmod	0
+11	24	nmod	appos	0
+6	24	conj	appos	0
+37	53	nmod	nmod	0
+36	53	nmod	nmod	0
+12	47	nmod	nmod	1
+5	16	nmod	nsubjpass	0
+2	21	nsubj	nmod	0
+8	21	conj	nmod	0
+2	19	dobj	nmod	1
+12	19	dobj	nmod	0
+
+passage:18217897
+22	25	root	compound	0
+11	25	root	nmod	0
+17	25	root	nmod	0
+7	17	nsubj	nmod	0
+13	17	nsubj	nmod	0
+14	17	nsubj	nmod	0
+5	40	compound	nmod	0
+19	34	appos	nmod	0
+4	34	nmod	nmod	0
+
+passage:18996674
+7	14	root	nmod	0
+4	31	compound	nmod	1
+
+passage:19058010
+2	14	nmod	dobj	1
+3	14	compound	dobj	0
+6	14	compound	dobj	0
+10	51	appos	dobj	1
+33	51	nmod	dobj	0
+37	51	nmod	dobj	0
+3	19	nmod	dobj	1
+1	19	nmod	dobj	0
+7	19	nmod	dobj	0
+
+passage:19581773
+1	12	compound	nmod	0
+7	12	compound	nmod	1
+4	12	compound	nmod	0
+4	12	compound	nmod	1
+24	26	dep	root	0
+8	26	appos	appos	0
+13	26	appos	root	0
+3	26	dep	appos	0
+1	36	nmod	nmod	0
+10	36	nmod	nsubjpass	1
+22	36	compound	nmod	0
+33	36	compound	nsubjpass	1
+
+passage:19759529
+8	11	compound	nsubjpass	0
+17	36	compound	amod	0
+13	36	amod	amod	0
+12	59	appos	nmod	1
+21	59	compound	nmod	0
+9	59	appos	nmod	1
+4	38	nsubj	dep	1
+3	38	compound	dep	0
+9	36	compound	dobj	0
+2	36	nmod	dobj	1
+8	28	appos	nmod	0
+11	28	appos	nmod	0
+20	28	appos	nmod	0
+14	28	dep	nmod	0
+41	70	amod	dobj	0
+
+passage:19957053
+2	9	compound	dobj	0
+6	9	root	dobj	0
+3	9	root	conj	1
+1	9	compound	conj	0
+15	27	nmod	nmod	0
+19	27	nmod	nmod	0
+18	39	nsubj	dobj	0
+4	39	nmod	dobj	0
+
+passage:20619828
+42	62	compound	dobj	1
+50	62	compound	appos	1
+12	62	compound	dobj	1
+
+passage:891050
+7	16	dobj	appos	1
+31	41	nmod	nmod	0
+25	41	nmod	nmod	0
+
+passage:983936
+7	16	nmod	nmod	0
+4	16	nmod	nmod	0
+2	16	amod	nmod	1
+3	16	nmod	nmod	0
+19	33	compound	nmod	0
+4	33	compound	dobj	1
+
+passage:1428568
+3	26	nmod	compound	0
+9	26	nmod	nmod	1
+3	37	compound	compound	1
+3	17	nsubj	nmod	0
+3	17	nmod	nmod	1
+
+passage:1720453
+2	19	compound	nmod	1
+12	43	dep	dobj	0
+10	43	compound	dobj	0
+9	43	compound	dobj	0
+11	43	compound	dobj	0
+13	43	dep	dobj	0
+14	43	dep	dobj	0
+24	53	compound	dobj	0
+19	53	compound	appos	0
+11	35	nmod	nsubjpass	0
+20	35	nmod	compound	0
+9	28	nmod	nmod	1
+5	28	nmod	nmod	0
+
+passage:1833784
+3	18	compound	dobj	0
+1	18	amod	dobj	1
+15	40	nsubj	dobj	1
+3	24	nmod	nsubjpass	0
+1	24	amod	nsubjpass	1
+20	24	nmod	nsubjpass	0
+21	24	nmod	nsubjpass	0
+1	21	amod	dobj	1
+5	21	nsubj	dobj	0
+1	19	compound	dobj	1
+
+passage:1867351
+3	15	nmod	compound	0
+
+passage:2070391
+4	15	dobj	nmod	1
+5	22	nmod	nsubjpass	1
+7	37	nmod	dobj	1
+13	28	dobj	nmod	1
+12	36	dep	compound	1
+18	32	nmod	nmod	1
+
+passage:2266990
+2	9	nmod	nmod	0
+13	22	nmod	nmod	0
+7	45	compound	dobj	1
+28	45	compound	dobj	1
+9	45	compound	dobj	1
+4	11	compound	nmod	0
+6	11	compound	nmod	0
+
+passage:2348231
+5	17	appos	dobj	0
+7	17	compound	dobj	1
+8	14	compound	nmod	0
+10	19	appos	dobj	1
+4	19	compound	dobj	0
+6	25	nmod	dobj	0
+11	25	nsubjpass	dobj	0
+3	25	nmod	dobj	0
+17	25	compound	dobj	1
+3	27	nmod	dobj	0
+12	27	nmod	dobj	0
+2	27	amod	dobj	1
+3	15	nsubj	dobj	0
+1	15	amod	dobj	1
+
+passage:2355241
+5	36	nmod	compound	1
+21	36	compound	nmod	0
+26	36	compound	nmod	0
+10	36	nmod	nmod	0
+4	36	compound	compound	0
+6	36	compound	compound	0
+15	36	nmod	compound	0
+15	36	nmod	nmod	0
+
+passage:2445283
+4	12	nmod	nmod	0
+8	25	nmod	appos	0
+5	18	nmod	nmod	0
+7	34	nsubj	nmod	0
+13	34	nsubj	nsubjpass	1
+6	15	nmod	nmod	0
+
+passage:2950248
+1	3	amod	root	0
+8	21	nmod	nsubj	1
+10	35	amod	nmod	0
+1	35	amod	nsubjpass	0
+3	27	amod	nmod	0
+
+passage:3015567
+1	24	amod	nsubj	1
+11	23	compound	nmod	0
+2	23	amod	nmod	1
+
+passage:3031535
+2	8	nmod	nmod	1
+8	30	nmod	nmod	1
+3	30	nmod	nmod	1
+
+passage:3125768
+2	7	amod	nmod	1
+2	13	amod	nmod	1
+2	12	nmod	nsubjpass	0
+5	30	nsubjpass	nsubjpass	1
+
+passage:3187073
+17	29	compound	nsubjpass	0
+14	29	compound	nsubjpass	1
+
+passage:3371379
+2	4	root	dep	1
+1	4	amod	dep	1
+2	23	compound	nmod	1
+6	23	nmod	nmod	1
+15	23	compound	nmod	0
+
+passage:3503576
+6	10	compound	nmod	0
+15	26	compound	nsubjpass	0
+7	26	compound	nmod	0
+17	26	nmod	nsubjpass	0
+9	26	nmod	nmod	0
+31	58	compound	nmod	0
+42	58	compound	nsubjpass	0
+3	34	compound	nmod	0
+
+passage:3560095
+4	7	root	nmod	0
+6	34	nmod	nmod	0
+18	34	nmod	compound	0
+
+passage:3714122
+4	13	amod	compound	0
+1	13	amod	nmod	0
+14	34	appos	compound	0
+2	34	appos	compound	0
+6	34	appos	compound	0
+18	34	appos	compound	0
+42	57	nmod	nmod	1
+3	30	compound	dobj	0
+
+passage:3828020
+6	9	nmod	root	1
+8	21	nmod	dobj	1
+
+passage:4812392
+2	6	nmod	nmod	0
+11	17	compound	nmod	0
+5	28	compound	nsubjpass	0
+
+passage:6518066
+3	11	root	conj	1
+2	27	amod	nmod	0
+
+passage:6534871
+2	25	amod	nmod	1
+
+passage:6538499
+2	9	compound	nmod	0
+2	9	nmod	nmod	0
+2	11	amod	nmod	1
+4	17	compound	nmod	0
+2	17	compound	nmod	0
+
+passage:6747681
+3	13	compound	nmod	0
+16	28	appos	nmod	0
+19	29	compound	dep	0
+9	15	compound	nmod	0
+
+passage:6861444
+2	17	nmod	dobj	1
+15	32	dobj	nsubjpass	1
+
+passage:7053303
+35	45	compound	nmod	1
+5	12	compound	dobj	1
+
+passage:7088431
+4	9	amod	nmod	1
+14	21	nmod	nmod	1
+
+passage:7248170
+7	12	amod	nmod	0
+10	12	amod	root	0
+1	12	amod	root	1
+2	12	amod	nmod	0
+29	87	nmod	nmod	0
+31	87	nmod	nmod	0
+37	87	amod	nmod	0
+36	87	amod	nmod	0
+3	87	amod	nmod	1
+82	87	amod	nmod	0
+5	87	nmod	nmod	0
+74	87	nmod	nmod	0
+39	87	amod	nmod	0
+28	87	nmod	nmod	0
+
+passage:7453952
+3	10	amod	nmod	1
+4	10	nmod	nmod	0
+1	44	amod	conj	1
+14	44	nmod	nmod	0
+11	44	nmod	conj	1
+2	44	amod	nmod	0
+4	44	nmod	conj	0
+7	44	nmod	nmod	0
+16	46	compound	nmod	1
+35	46	compound	nmod	0
+4	46	nmod	nmod	0
+13	37	compound	nmod	1
+17	37	compound	nmod	0
+8	37	compound	nmod	0
+12	37	compound	nmod	0
+
+passage:7802851
+7	28	nmod	nmod	0
+5	28	nmod	nmod	0
+3	25	nmod	nmod	0
+5	25	nmod	nmod	0
+40	51	compound	dep	1
+20	51	compound	nmod	1
+12	51	compound	nmod	1
+38	51	compound	dep	0
+39	51	compound	dep	1
+41	51	compound	dep	1
+
+passage:8319760
+3	8	nsubj	nmod	0
+2	8	amod	nmod	1
+22	56	nmod	nmod	1
+38	56	compound	nmod	0
+31	56	appos	nmod	0
+29	56	appos	nmod	0
+11	56	nmod	nmod	0
+20	56	nmod	nmod	1
+25	56	compound	nmod	0
+9	56	nmod	nmod	0
+17	56	appos	nmod	0
+3	56	nmod	nmod	0
+9	56	nmod	nmod	1
+2	56	nmod	nmod	0
+36	56	compound	nmod	0
+18	56	appos	nmod	0
+8	56	nmod	nmod	1
+24	56	compound	nmod	0
+2	17	amod	nmod	1
+4	17	compound	nmod	0
+
+passage:8386779
+1	10	nsubj	dobj	0
+6	10	nsubj	nmod	0
+8	49	nmod	nmod	0
+1	41	dobj	nmod	0
+
+passage:8421099
+8	24	appos	compound	1
+12	24	appos	compound	0
+7	43	nmod	nmod	0
+14	21	nmod	dobj	1
+9	21	nmod	dobj	1
+5	23	nmod	nmod	1
+6	34	compound	nmod	0
+5	34	compound	nmod	1
+4	34	compound	compound	0
+3	20	compound	compound	0
+
+passage:8649546
+3	9	nmod	nmod	0
+2	9	amod	nmod	1
+3	9	amod	nmod	0
+2	9	nmod	nmod	0
+1	25	dobj	dobj	0
+7	25	dobj	appos	0
+4	21	amod	dobj	1
+5	21	amod	nmod	0
+
+passage:8919272
+5	15	nmod	nmod	1
+4	51	compound	dobj	0
+3	51	compound	dep	1
+6	51	compound	dobj	0
+12	19	compound	nmod	1
+8	19	compound	appos	0
+2	19	compound	nmod	1
+
+passage:9199746
+2	6	nmod	root	0
+9	21	nsubj	nsubj	0
+6	21	nsubj	nmod	0
+4	23	nmod	nmod	0
+7	23	nmod	nmod	0
+15	23	nmod	nmod	0
+4	23	nmod	nmod	0
+6	11	compound	dobj	0
+
+passage:9249847
+4	19	compound	dobj	1
+11	19	compound	nmod	0
+7	19	compound	nmod	0
+15	28	compound	compound	1
+
+passage:9284778
+10	15	nmod	nmod	0
+9	15	compound	nmod	0
+17	31	appos	nmod	1
+25	31	nmod	nmod	1
+7	30	compound	nmod	0
+3	30	nmod	nmod	0
+13	23	amod	nmod	0
+
+passage:9522143
+7	31	nmod	dobj	1
+5	31	dobj	dobj	1
+14	19	dep	nsubj	1
+9	19	ccomp	nsubj	1
+
+passage:9522152
+6	16	nmod	root	0
+12	30	nmod	nmod	0
+
+passage:9672936
+7	12	dobj	root	1
+3	12	dobj	compound	0
+14	24	nmod	compound	0
+
+passage:9721172
+12	28	compound	compound	0
+10	28	compound	nmod	1
+2	28	nmod	nsubj	0
+15	28	nmod	nmod	0
+6	28	nmod	nmod	0
+7	28	nmod	nmod	0
+11	28	nmod	nsubj	0
+3	28	nmod	nsubj	0
+
+passage:9727773
+2	10	nmod	nmod	1
+20	23	compound	nsubj	1
+8	17	dobj	nmod	1
+7	17	nmod	nmod	1
+
+passage:9754849
+4	8	nmod	nsubj	1
+6	17	nmod	xcomp	0
+7	33	nmod	nmod	1
+22	33	dobj	nmod	1
+19	33	dobj	nmod	0
+
+passage:10365197
+5	15	amod	compound	0
+12	15	amod	root	1
+18	26	amod	compound	0
+1	26	amod	appos	0
+12	26	amod	nmod	1
+
+passage:10704919
+5	15	nmod	nsubjpass	1
+25	29	appos	nmod	1
+13	29	appos	nmod	0
+2	33	amod	nmod	1
+1	11	nsubj	dobj	1
+3	22	nsubj	dobj	1
+12	39	appos	nsubjpass	0
+6	39	dobj	nsubjpass	0
+1	39	amod	nsubjpass	1
+9	21	compound	nmod	0
+2	21	amod	nmod	1
+15	37	nmod	nmod	0
+22	37	nmod	nmod	1
+9	33	compound	nmod	1
+2	33	nmod	nmod	0
+1	37	amod	nsubj	1
+4	20	nmod	nmod	1
+
+passage:10706004
+2	27	compound	nmod	1
+14	27	dep	nmod	0
+1	27	dep	nmod	0
+1	8	compound	dobj	1
+7	17	compound	nmod	0
+7	48	dep	nmod	0
+8	48	compound	nmod	1
+13	48	appos	nmod	0
+6	36	dep	nmod	0
+29	36	compound	nmod	0
+30	36	nmod	nmod	0
+2	39	nmod	dobj	1
+8	39	nmod	compound	0
+19	39	dep	compound	0
+25	39	dep	dobj	0
+
+passage:10721819
+2	13	amod	nmod	1
+2	13	nmod	nmod	1
+1	51	amod	nsubj	1
+15	51	compound	nsubj	0
+26	51	compound	nsubj	1
+1	19	amod	dobj	1
+3	19	nmod	dobj	1
+4	17	compound	dobj	1
+6	17	nsubj	dobj	1
+10	17	nsubj	dobj	1
+6	30	compound	nmod	1
+12	30	nmod	nsubjpass	0
+10	30	nmod	nmod	1
+8	30	amod	nsubjpass	1
+4	30	compound	nsubjpass	1
+10	30	amod	nmod	0
+1	30	amod	nsubj	1
+21	30	nmod	nsubj	0
+5	30	compound	nsubj	0
+17	43	compound	nmod	1
+1	43	amod	nmod	0
+1	43	amod	dobj	1
+15	43	compound	dobj	1
+8	32	compound	dobj	0
+7	32	nmod	dobj	0
+3	32	nmod	nsubj	1
+18	32	compound	nsubj	0
+
+passage:10737864
+7	43	nmod	dobj	1
+1	21	amod	nmod	1
+
+passage:10743446
+7	22	nmod	nmod	1
+6	22	nmod	nmod	0
+6	22	nmod	nmod	0
+20	30	nmod	nmod	0
+13	30	nmod	nmod	1
+2	30	nmod	nmod	1
+1	30	nmod	nmod	1
+5	30	nmod	nmod	0
+16	30	nmod	nmod	0
+16	20	nsubj	dobj	0
+4	20	nsubj	nmod	0
+3	9	nsubj	nmod	0
+16	34	nmod	nmod	0
+6	34	nmod	nmod	0
+
+passage:11007689
+1	5	amod	conj	1
+2	5	root	conj	1
+7	18	nmod	appos	1
+13	23	nmod	nmod	1
+2	23	amod	nmod	1
+1	18	amod	nsubjpass	1
+10	23	nmod	nmod	1
+6	23	nmod	nmod	1
+7	34	nmod	dobj	1
+10	24	nmod	nmod	1
+14	26	nmod	nmod	1
+16	26	nmod	nmod	1
+
+passage:11256525
+5	14	compound	root	1
+16	27	compound	compound	0
+5	27	compound	nmod	1
+1	27	compound	nmod	0
+4	8	nsubjpass	nmod	0
+2	28	nmod	nmod	1
+9	28	nmod	nmod	0
+14	28	compound	nmod	0
+18	33	nsubjpass	nmod	1
+16	26	compound	nsubj	0
+15	26	compound	nmod	0
+4	35	nsubjpass	nmod	0
+10	35	compound	nmod	0
+
+passage:11334364
+7	29	amod	amod	1
+11	29	nmod	nmod	0
+5	29	amod	nmod	0
+2	29	amod	nmod	1
+1	29	amod	nmod	0
+4	29	amod	nmod	1
+4	29	amod	amod	1
+13	29	nmod	amod	0
+5	29	amod	nmod	0
+8	29	amod	nmod	0
+7	29	amod	nmod	0
+2	29	nmod	nmod	0
+8	29	amod	nmod	0
+1	29	nmod	nmod	0
+2	29	amod	nmod	1
+10	29	amod	amod	1
+11	40	appos	dobj	0
+3	40	appos	dobj	0
+3	40	dobj	dobj	1
+7	40	dobj	dobj	0
+5	40	appos	dobj	1
+15	40	appos	dobj	0
+15	40	dobj	dobj	0
+13	40	appos	dobj	0
+19	40	appos	dobj	0
+23	40	appos	dobj	0
+29	40	appos	dobj	0
+5	40	appos	dobj	1
+19	38	compound	nmod	0
+6	35	nsubj	nmod	1
+11	35	nmod	nmod	0
+11	35	nsubj	nmod	1
+5	35	nsubj	nmod	1
+
+passage:11642480
+4	8	nmod	nmod	0
+5	8	nmod	root	1
+10	26	nmod	dobj	1
+6	26	nmod	nmod	0
+
+passage:12063090
+4	12	compound	dobj	1
+6	12	nsubj	dobj	0
+4	38	nmod	compound	1
+5	38	dobj	compound	0
+7	34	compound	amod	0
+35	42	nsubj	compound	1
+1	27	amod	dobj	1
+3	27	nsubj	dobj	0
+16	30	nmod	nmod	0
+20	30	nmod	nmod	0
+
+passage:12084448
+2	6	compound	nmod	0
+1	6	compound	root	1
+2	31	nmod	nmod	0
+4	31	nmod	dobj	1
+4	15	nmod	conj	0
+6	45	nmod	nsubjpass	1
+34	45	nmod	nmod	0
+
+passage:12684739
+28	48	appos	appos	0
+27	48	amod	dobj	0
+20	48	amod	appos	0
+13	48	nmod	appos	1
+20	48	nmod	dobj	0
+35	48	appos	dobj	0
+22	29	dep	nmod	1
+10	29	nmod	nmod	0
+11	29	amod	nmod	0
+
+passage:12716030
+3	26	nsubj	compound	1
+15	26	nsubj	nmod	0
+11	26	nsubj	compound	0
+
+passage:12757899
+2	14	nsubj	amod	0
+1	14	nsubj	dobj	0
+5	14	amod	nmod	0
+1	14	amod	appos	0
+11	19	nmod	nmod	0
+2	19	amod	nmod	1
+9	17	amod	nmod	0
+4	25	nmod	compound	0
+
+passage:12905102
+3	12	compound	root	1
+4	16	compound	nmod	1
+15	43	nmod	nmod	1
+2	43	nmod	compound	0
+7	22	amod	nsubjpass	1
+
+passage:14513889
+1	3	amod	root	0
+4	30	nmod	compound	1
+13	30	nmod	compound	1
+5	30	nmod	compound	1
+6	30	nmod	compound	1
+
+passage:15009014
+12	19	nsubj	dobj	1
+8	50	nmod	nsubjpass	0
+
+passage:15120741
+2	46	compound	appos	1
+9	46	compound	nmod	1
+45	49	nmod	dobj	0
+5	49	amod	dobj	1
+34	49	dobj	dobj	0
+34	40	compound	compound	0
+24	34	compound	compound	0
+
+passage:15275829
+9	20	compound	nmod	0
+4	20	compound	nmod	0
+3	20	amod	nmod	1
+2	20	amod	nmod	1
+25	35	nmod	nmod	0
+20	35	compound	nmod	0
+31	35	nmod	nmod	0
+26	35	compound	nmod	0
+22	35	compound	nmod	0
+27	35	nmod	nmod	1
+11	34	dep	acl	1
+2	34	dep	acl	1
+6	43	nmod	nmod	1
+2	17	amod	nmod	1
+3	22	amod	nmod	1
+2	22	amod	nmod	1
+
+passage:15602202
+3	7	nmod	nsubj	1
+5	13	amod	nmod	1
+
+passage:16181582
+1	3	amod	root	1
+11	15	amod	compound	0
+1	15	amod	nsubj	1
+2	8	amod	nmod	1
+
+passage:16298782
+5	9	root	nmod	0
+2	9	compound	nmod	0
+3	46	nmod	nmod	0
+11	46	appos	nmod	0
+15	46	appos	nmod	0
+7	46	appos	nmod	0
+4	35	compound	nmod	0
+19	35	amod	compound	0
+2	35	amod	nmod	1
+13	35	compound	compound	0
+10	23	nsubj	nsubj	0
+7	23	amod	nsubj	1
+
+passage:16428221
+4	13	compound	root	1
+5	23	compound	nsubjpass	0
+9	23	compound	nsubjpass	0
+4	23	compound	nsubjpass	0
+18	23	compound	nsubjpass	1
+8	24	nmod	nmod	0
+3	24	nmod	nmod	0
+13	22	compound	nsubjpass	0
+
+passage:16858720
+2	11	nmod	root	1
+11	34	compound	nmod	1
+3	19	compound	dobj	1
+12	21	nmod	nmod	1
+13	38	compound	compound	1
+1	15	amod	nsubj	1
+18	25	nmod	nmod	1
+
+passage:17466854
+13	33	nmod	compound	0
+17	33	nmod	compound	0
+24	31	nmod	nmod	1
+9	31	nmod	nmod	1
+19	31	nmod	nmod	1
+14	31	nmod	nmod	1
+
+passage:17562951
+7	45	nmod	nmod	0
+3	45	nmod	nmod	0
+4	32	nmod	nmod	0
+18	66	nmod	nmod	0
+29	66	nmod	nmod	0
+21	45	nmod	nmod	0
+9	39	nmod	nmod	0
+27	39	nmod	nmod	1
+5	39	nmod	nmod	0
+23	39	nmod	nmod	1
+
+passage:17600377
+2	21	appos	dobj	0
+14	21	appos	compound	0
+3	23	amod	dobj	1
+1	23	amod	dobj	0
+4	23	nsubj	dobj	0
+22	30	amod	dobj	0
+4	30	nsubjpass	dobj	0
+5	34	nsubj	nmod	0
+17	34	nsubj	nmod	0
+10	34	nsubj	nmod	0
+
+passage:17639754
+14	23	nmod	compound	1
+10	23	nmod	compound	1
+
+passage:17854040
+12	31	nmod	nmod	0
+9	31	nmod	compound	0
+11	31	nmod	compound	0
+10	31	nmod	nmod	0
+3	32	compound	nmod	0
+8	32	compound	compound	0
+11	26	root	nmod	0
+18	26	root	compound	0
+9	22	amod	compound	0
+
+passage:18221780
+2	25	compound	nmod	0
+9	25	compound	nmod	1
+6	25	compound	nmod	1
+2	25	compound	nmod	0
+17	25	compound	nmod	0
+13	25	compound	nmod	0
+4	25	appos	compound	0
+10	25	nmod	compound	0
+5	40	nmod	nsubjpass	1
+14	31	compound	compound	0
+13	31	nmod	compound	0
+19	29	compound	compound	0
+16	29	nmod	compound	0
+
+passage:18261172
+6	14	amod	nmod	1
+2	28	nmod	nsubjpass	1
+7	28	nmod	compound	1
+3	14	nmod	nmod	1
+9	12	nsubj	compound	0
+5	12	dep	compound	0
+8	27	nmod	nsubj	1
+13	21	root	nmod	1
+18	21	root	dobj	1
+9	21	nmod	nmod	0
+14	21	nmod	dobj	0
+
+passage:18329269
+1	53	amod	compound	1
+2	53	amod	nmod	0
+
+passage:18410508
+1	14	amod	nsubjpass	0
+2	27	amod	nmod	1
+5	27	compound	nmod	0
+15	39	compound	nmod	0
+21	39	nmod	nmod	0
+13	39	compound	nsubj	0
+2	39	amod	nmod	0
+7	39	nmod	nsubj	1
+30	39	amod	nsubj	1
+5	36	nmod	nmod	0
+1	18	compound	dobj	0
+
+passage:18503483
+2	24	amod	nmod	1
+5	24	nmod	nmod	0
+
+passage:18560792
+5	9	nmod	nsubj	0
+2	9	nmod	nmod	0
+11	15	nmod	nsubjpass	0
+4	15	nmod	appos	0
+6	23	nmod	compound	0
+7	27	nmod	nmod	0
+13	27	nmod	nmod	0
+5	38	nsubjpass	nmod	0
+29	38	nsubjpass	nmod	0
+26	34	compound	nmod	0
+7	34	nmod	nmod	0
+2	34	nmod	compound	0
+21	34	compound	compound	0
+
+passage:18726058
+7	16	nsubj	dobj	0
+8	13	nmod	nsubjpass	0
+2	26	dobj	nmod	0
+10	19	nsubjpass	dobj	0
+5	28	nsubjpass	nmod	0
+2	10	nmod	dobj	0
+
+passage:18754075
+1	17	nmod	conj	0
+10	17	nmod	nmod	0
+7	17	appos	nmod	0
+4	17	nmod	root	0
+7	17	appos	root	1
+4	17	appos	conj	1
+10	17	compound	nmod	0
+7	17	compound	nmod	0
+17	40	compound	nmod	0
+14	40	compound	nmod	1
+5	20	nsubj	dobj	0
+2	20	nsubj	dobj	0
+
+passage:18768591
+2	10	amod	nmod	1
+1	18	amod	nsubj	0
+10	18	compound	dep	0
+14	18	amod	dep	0
+5	18	compound	nsubj	0
+9	18	amod	dep	0
+5	18	compound	dep	0
+19	32	amod	dobj	0
+36	50	amod	nmod	1
+33	50	amod	nmod	1
+3	50	amod	dep	1
+43	50	amod	nmod	1
+44	50	amod	nmod	1
+3	28	compound	compound	0
+42	83	compound	nmod	0
+23	61	compound	xcomp	0
+5	61	compound	nmod	0
+
+passage:19299179
+9	22	compound	root	0
+5	22	compound	compound	0
+1	22	compound	nmod	0
+7	21	nmod	compound	0
+16	21	nmod	appos	0
+12	21	nmod	appos	0
+19	36	compound	dobj	0
+22	36	compound	compound	0
+8	36	compound	compound	0
+1	36	compound	nmod	0
+
+passage:19356053
+6	13	nmod	root	1
+13	29	nsubj	dobj	1
+8	18	nmod	nmod	1
+5	14	compound	dobj	1
+6	28	dobj	nmod	1
+6	35	compound	nmod	0
+5	25	nmod	nmod	1
+7	25	nmod	compound	0
+5	17	compound	nsubj	1
+10	20	nmod	nmod	1
+1	19	nsubj	dobj	1
+10	14	nsubjpass	nsubj	1
+
+passage:19729346
+34	51	nmod	nmod	0
+15	39	nmod	nmod	0
+
+passage:20080983
+7	26	nmod	nmod	0
+4	26	compound	nmod	1
+22	28	nsubjpass	nmod	0
+1	24	nsubj	dobj	0
+4	24	compound	dobj	1
+
+passage:20520283
+15	21	nmod	nmod	0
+6	21	amod	nmod	0
+14	38	nsubjpass	nmod	0
+30	38	nsubjpass	nmod	0
+13	38	nsubjpass	compound	0
+33	51	nmod	nmod	0
+34	51	nmod	nmod	0
+20	41	nmod	nsubj	1
+17	41	nmod	nsubj	1
+9	24	nmod	dep	1
+13	24	nmod	dep	1
+
+passage:20588063
+3	19	compound	nmod	1
+1	47	compound	compound	1
+
+passage:19820426
+4	10	compound	nmod	0
+8	28	compound	dobj	1
+4	28	compound	dobj	1
+12	28	compound	dobj	1
+
+passage:1616457
+2	9	nmod	nmod	1
+3	27	nmod	nmod	1
+
+passage:567256
+4	8	nmod	nsubj	1
+19	26	nmod	nsubj	1
+
+passage:17439425
+2	10	amod	nmod	1
+1	10	compound	nmod	0
+9	14	compound	appos	1
+3	29	appos	nmod	1
+19	29	compound	appos	0
+26	28	root	dep	1
+1	28	root	dep	1
+4	6	dobj	dep	1
+3	6	nsubj	dobj	0
+16	32	nsubj	nmod	0
+
+passage:9351491
+6	36	nmod	nmod	0
+15	30	nmod	nsubjpass	1
+3	30	nmod	nsubjpass	1
+
+passage:18752389
+1	6	amod	root	0
+12	18	nmod	compound	0
+12	18	nmod	compound	0
+18	28	compound	dobj	0
+14	28	nmod	dobj	0
+10	21	nmod	nmod	0
+8	24	nsubjpass	nmod	0
+3	24	nsubjpass	nmod	0
+19	24	nsubjpass	nmod	0
+8	24	nsubjpass	nmod	0
+30	38	compound	nmod	0
+4	38	compound	nmod	0
+18	38	nsubj	nmod	0
+2	19	amod	nmod	0
+7	21	compound	nmod	0
+10	21	compound	nmod	0
+3	30	nmod	nmod	0
+
+passage:20098969
+24	37	nsubj	appos	0
+30	37	nsubj	appos	0
+31	37	nsubj	appos	0
+20	37	nsubj	nmod	0
+21	27	dobj	conj	0
+8	27	dobj	appos	0
+10	27	dobj	appos	1
+10	24	nmod	dobj	1
+
+passage:9653867
+5	11	compound	nmod	1
+5	38	compound	nmod	1
+17	38	compound	nmod	0
+
+passage:17608141
+9	12	compound	nmod	0
+4	12	amod	nmod	0
+3	12	amod	nmod	0
+2	13	amod	nmod	1
+13	27	nmod	dobj	0
+4	27	compound	dobj	0
+3	27	amod	dobj	0
+10	17	compound	dobj	0
+1	17	amod	dobj	1
+5	20	compound	nmod	0
+4	20	compound	nmod	0
+3	20	amod	nmod	0
+
+passage:2559236
+2	12	amod	nmod	0
+13	21	nmod	nmod	0
+3	21	compound	nmod	1
+12	31	nmod	nmod	1
+58	99	nsubj	dobj	0
+4	29	compound	nmod	0
+6	29	nmod	nmod	0
+2	29	compound	nmod	1
+4	29	nmod	nmod	0
+5	13	compound	dobj	0
+
+passage:21029050
+3	14	nmod	nmod	1
+17	33	nmod	nmod	1
+
+passage:10901305
+4	14	compound	nmod	0
+8	30	nmod	nmod	0
+9	62	nmod	nmod	0
+4	62	nmod	nmod	0
+15	29	dep	nmod	0
+
+passage:19037603
+6	11	nmod	nmod	0
+4	29	appos	nmod	0
+8	29	nmod	nmod	0
+2	29	compound	nmod	0
+12	29	compound	nmod	0
+
+passage:20084309
+18	42	compound	dep	0
+16	42	compound	dep	0
+6	42	compound	dep	0
+19	49	compound	nmod	0
+6	49	compound	nmod	1
+10	35	nmod	appos	0
+13	35	nmod	nsubjpass	0
+
+passage:8231633
+2	9	compound	nmod	0
+2	9	amod	nmod	0
+2	19	compound	nmod	0
+3	19	amod	nmod	0
+1	31	amod	dobj	1
+8	31	nmod	dobj	0
+8	31	compound	dobj	0
+
+passage:10091617
+1	15	amod	root	1
+1	15	amod	nmod	0
+18	41	dobj	appos	0
+6	41	dobj	appos	0
+8	24	nmod	nmod	1
+2	24	nmod	nmod	1
+17	49	dobj	dobj	1
+1	27	dobj	compound	0
+10	28	nmod	dobj	1
+1	28	nmod	compound	0
+4	21	nmod	nsubjpass	1
+1	14	dobj	nmod	1
+6	20	nsubjpass	nmod	1
+3	20	nmod	nmod	1
+
+passage:19269743
+2	16	amod	nmod	1
+11	52	nmod	compound	1
+5	41	compound	compound	1
+
+passage:3070035
+8	14	amod	nmod	0
+2	14	amod	nmod	0
+2	25	nmod	compound	1
+18	25	nmod	nmod	0
+2	27	amod	nmod	0
+
+passage:1147734
+1	5	nmod	nsubj	0
+6	29	nmod	nmod	1
+
+passage:12202650
+1	11	amod	nsubj	0
+13	20	nsubjpass	dobj	1
+
+passage:18951540
+2	10	amod	nmod	1
+1	10	amod	nmod	0
+
+passage:19657887
+12	24	nmod	nmod	1
+5	24	nmod	nmod	1
+13	24	nmod	nmod	1
+1	25	amod	nmod	0
+15	25	amod	nmod	0
+14	25	amod	nmod	0
+
+passage:9660111
+7	29	nsubj	dobj	0
+2	29	compound	dobj	1
+12	29	compound	dobj	0
+17	32	compound	dobj	0
+23	32	nmod	dobj	1
+5	32	nsubj	dobj	1
+4	32	nmod	dobj	1
+14	43	nmod	dobj	0
+35	43	nmod	dobj	0
+
+passage:11431197
+1	9	amod	root	1
+3	30	amod	nmod	1
+
+passage:7449470
+4	6	compound	root	1
+8	16	nmod	nsubj	1
+
+passage:8170551
+1	9	amod	root	0
+5	9	amod	nmod	0
+6	11	nmod	dobj	1
+4	14	nmod	nsubj	0
+
+passage:2476560
+12	21	appos	nmod	0
+2	16	nsubj	ccomp	1
+8	16	nsubj	nmod	1
+
+passage:19803309
+18	31	nmod	nmod	0
+7	31	nmod	dobj	1
+
+passage:18821488
+10	14	appos	root	0
+9	14	compound	root	0
+5	36	nmod	dobj	0
+8	39	nmod	nsubjpass	1
+21	32	nsubjpass	nmod	0
+7	32	nsubjpass	nmod	0
+
+passage:8372922
+
+passage:9195768
+4	15	nmod	nsubj	1
+
+passage:15338796
+2	13	nmod	compound	1
+2	22	nmod	compound	1
+7	19	nmod	nmod	0
+11	19	nmod	dobj	1
+3	14	nsubj	compound	1
+
+passage:12627929
+5	19	nmod	nmod	1
+6	19	nmod	nmod	0
+15	19	nmod	nmod	1
+4	19	nmod	nmod	0
+16	33	nmod	appos	1
+11	33	nmod	nmod	0
+20	33	nmod	appos	1
+15	33	nmod	nmod	0
+3	38	dobj	dobj	1
+2	38	nmod	dobj	1
+10	20	nmod	nmod	1
+5	20	nmod	nmod	0
+12	20	nmod	nmod	1
+7	20	nmod	nmod	0
+
+passage:6634932
+2	19	amod	nmod	1
+13	19	appos	nmod	0
+2	12	nsubj	dobj	0
+
+passage:18791946
+5	15	nmod	root	1
+2	15	nmod	conj	1
+4	23	nmod	nmod	1
+6	23	nmod	nmod	0
+8	23	nmod	nmod	1
+5	30	nsubj	dobj	1
+9	30	nsubj	dobj	1
+
+passage:17344566
+5	11	amod	nsubj	1
+6	11	amod	nmod	0
+1	11	amod	nsubj	1
+10	18	dobj	nmod	0
+7	18	dobj	nmod	1
+2	18	dobj	compound	0
+1	18	dobj	nmod	1
+4	18	dobj	nmod	0
+5	18	dobj	compound	0
+
+passage:9293063
+
+passage:1728522
+2	6	nmod	dep	1
+2	15	amod	nmod	1
+1	15	amod	nmod	1
+
+passage:10807237
+2	17	amod	nmod	0
+2	30	amod	nmod	0
+8	20	compound	amod	0
+
+passage:12536034
+6	17	nmod	nmod	1
+10	17	nmod	nmod	1
+10	17	amod	nmod	0
+
+passage:7234705
+1	4	amod	root	1
+3	9	amod	nmod	1
+5	24	nmod	nmod	1
+10	19	nsubjpass	nmod	0
+5	19	nsubjpass	nmod	0
+2	25	compound	nsubj	1
+5	15	nsubj	nmod	1
+2	15	nsubj	dobj	0
+
+passage:8955532
+8	17	compound	nmod	0
+12	28	nmod	nmod	0
+13	32	amod	nmod	1
+21	32	nmod	nmod	0
+5	32	nmod	nmod	0
+8	25	nmod	nmod	0
+
+passage:2578334
+1	7	nsubj	dobj	1
+34	73	appos	nmod	1
+5	73	appos	nmod	1
+54	73	appos	nmod	1
+55	73	appos	nmod	1
+
+passage:11532387
+4	10	nmod	dobj	1
+18	39	nmod	nmod	1
+4	39	compound	nmod	0
+
+passage:3173179
+10	18	compound	compound	0
+5	18	compound	nmod	1
+7	10	nsubj	compound	0
+8	28	nmod	nmod	0
+9	28	nmod	nsubj	1
+13	28	nmod	nmod	0
+4	28	nmod	nsubj	0
+
+passage:3856631
+2	9	nmod	nmod	0
+21	40	compound	nmod	0
+17	40	compound	dobj	1
+2	18	compound	conj	0
+5	18	compound	conj	0
+10	18	compound	nsubj	0
+14	18	nsubj	nmod	0
+
+passage:2522601
+3	17	nmod	nmod	1
+1	17	nmod	root	1
+13	17	nmod	appos	1
+14	17	nmod	appos	1
+7	17	nmod	appos	0
+17	29	nmod	dobj	1
+3	29	nmod	nmod	1
+18	29	nmod	dobj	0
+19	29	nmod	dobj	1
+5	29	nmod	dobj	1
+20	29	nmod	dobj	1
+
+passage:8741744
+32	54	amod	dobj	0
+7	54	amod	dobj	1
+
+passage:17491223
+2	15	amod	nmod	1
+1	13	amod	dobj	1
+19	60	amod	nmod	0
+4	60	dobj	dobj	0
+1	60	amod	dobj	1
+16	60	dobj	nmod	0
+
+passage:18004067
+9	14	dobj	root	1
+7	14	compound	root	0
+8	25	appos	nmod	1
+5	25	nmod	nmod	0
+9	38	compound	compound	0
+1	38	dobj	compound	1
+8	19	nmod	nmod	1
+3	23	nmod	nsubj	0
+
+passage:12443032
+1	13	compound	root	1
+20	35	nmod	nmod	1
+5	16	compound	nmod	1
+
+passage:17615423
+12	18	nmod	conj	1
+16	18	nmod	root	1
+5	18	nmod	conj	1
+15	18	nmod	root	1
+13	18	nmod	conj	1
+8	18	nmod	root	1
+1	26	nmod	nmod	1
+6	26	nmod	nmod	1
+12	26	nmod	nmod	1
+5	26	nmod	nmod	1
+2	26	nmod	nmod	1
+8	26	nmod	nmod	1
+7	30	appos	compound	0
+9	30	nsubjpass	compound	0
+12	19	compound	nmod	1
+
+passage:8558192
+3	20	amod	nmod	0
+10	15	nsubjpass	nsubj	0
+4	20	nmod	nmod	0
+
+passage:11135224
+13	17	root	nmod	0
+11	17	conj	nmod	0
+8	17	conj	nmod	0
+11	19	amod	appos	0
+3	35	compound	dobj	0
+11	35	nmod	dobj	0
+6	35	compound	dobj	0
+8	35	compound	dobj	0
+11	35	compound	dobj	0
+14	35	nmod	dobj	0
+19	85	nmod	nmod	0
+37	85	appos	nmod	0
+78	85	nmod	nmod	0
+14	25	nmod	nmod	0
+4	25	nmod	nmod	0
+5	25	nmod	nmod	0
+
+passage:8590259
+23	31	nmod	compound	1
+
+passage:2096243
+1	3	amod	root	1
+15	18	amod	nsubjpass	1
+2	18	amod	nmod	1
+1	14	amod	nsubj	1
+3	14	amod	nmod	0
+
+passage:6209318
+10	17	root	nmod	0
+12	28	appos	nmod	0
+5	29	compound	nsubj	0
+7	24	compound	appos	1
+11	24	compound	appos	1
+
+passage:3615541
+6	13	compound	nmod	0
+2	13	amod	nmod	1
+
+passage:8953972
+5	9	nmod	nsubj	1
+22	29	dobj	nmod	0
+10	29	dobj	nmod	0
+18	31	nsubj	nmod	0
+4	31	nsubj	nmod	1
+24	31	nsubj	nmod	1
+
+passage:3782049
+5	9	compound	nmod	1
+11	20	compound	compound	0
+1	20	compound	dobj	1
+7	20	compound	dobj	1
+
+passage:9100294
+6	10	compound	nsubj	0
+5	25	compound	dobj	0
+2	25	appos	dobj	1
+4	23	compound	dobj	0
+17	29	compound	nmod	0
+20	31	nmod	nmod	1
+11	31	compound	nmod	0
+25	31	nmod	nmod	1
+
+passage:19889778
+
+passage:15278670
+2	8	nmod	nmod	0
+2	8	amod	nmod	1
+2	12	nmod	nmod	0
+2	12	amod	nmod	1
+5	15	nmod	compound	0
+1	15	nmod	compound	0
+4	45	nmod	nmod	0
+13	45	nmod	nmod	0
+10	29	dep	amod	0
+26	29	nsubjpass	amod	0
+19	29	amod	amod	0
+18	29	compound	amod	0
+9	27	nsubj	dobj	0
+3	23	compound	compound	1
+4	23	nsubj	nmod	0
+6	23	nsubj	compound	0
+7	23	compound	nmod	0
+2	23	compound	nmod	0
+5	23	nsubj	nmod	0
+
+passage:17042910
+2	11	nmod	nmod	0
+2	11	amod	nmod	1
+8	28	appos	nsubjpass	1
+6	28	appos	nsubjpass	1
+19	28	nmod	nsubjpass	0
+6	31	nsubj	nmod	0
+10	31	nmod	nmod	1
+4	31	compound	nmod	0
+
+passage:11897407
+3	9	root	nmod	0
+2	9	amod	nmod	1
+10	20	nmod	dobj	0
+1	17	nmod	amod	0
+8	26	nsubjpass	nmod	0
+3	26	amod	nmod	1
+4	15	compound	compound	0
+14	31	compound	amod	0
+
+passage:9812111
+2	16	nmod	nmod	0
+8	16	nmod	nmod	0
+6	16	nmod	nmod	0
+9	37	nmod	nmod	0
+13	37	nmod	nmod	0
+16	37	nmod	nmod	0
+5	45	nsubjpass	nmod	0
+7	45	nmod	nmod	0
+14	45	nmod	compound	0
+13	26	nmod	nmod	1
+11	23	nmod	nmod	0
+15	23	nmod	nmod	0
+10	23	nmod	compound	0
+
+passage:15572383
+2	15	amod	nmod	0
+7	26	nmod	nmod	0
+4	31	compound	nsubjpass	1
+9	18	nsubj	dobj	0
+10	18	nsubj	dobj	0
+2	18	nsubj	compound	1
+1	18	nsubj	dobj	1
+2	95	nmod	nmod	1
+2	20	amod	nmod	0
+
+passage:7420681
+2	8	nmod	root	0
+6	8	nmod	root	0
+9	20	compound	dobj	0
+3	20	compound	dobj	0
+6	20	compound	dobj	0
+6	20	compound	dobj	0
+18	55	compound	nmod	1
+15	55	compound	nmod	1
+2	55	amod	nmod	0
+14	27	amod	dobj	1
+1	27	amod	dobj	1
+2	17	nsubjpass	nmod	1
+8	17	advcl	nmod	1
+
+passage:12907309
+22	30	nmod	nmod	0
+2	30	amod	nmod	0
+4	30	compound	nmod	0
+8	30	nmod	nmod	0
+12	30	amod	nmod	1
+10	30	compound	nmod	0
+9	22	dobj	dobj	1
+2	21	amod	nmod	0
+1	21	amod	nmod	0
+5	21	nmod	nmod	0
+9	35	compound	nmod	0
+20	35	nmod	nmod	0
+10	35	amod	nmod	1
+
+passage:16680561
+10	48	nmod	nsubjpass	1
+15	48	nmod	nsubjpass	1
+12	48	nmod	nsubjpass	1
+7	48	nmod	nsubjpass	1
+
+passage:17532790
+2	13	amod	nmod	1
+19	25	nmod	appos	1
+8	25	nmod	appos	0
+3	48	amod	nmod	0
+10	48	nmod	nmod	0
+9	48	nmod	nmod	0
+12	19	nmod	nmod	1
+
+passage:7582165
+1	9	nmod	root	0
+1	11	nsubj	dobj	0
+4	21	nmod	compound	0
+4	16	nmod	nmod	0
+
+passage:16787750
+16	26	nmod	dobj	1
+1	24	amod	nmod	1
+2	24	amod	nmod	1
+10	24	amod	nmod	1
+3	24	amod	nmod	1
+16	27	amod	compound	0
+18	27	amod	nmod	0
+6	27	amod	root	1
+2	27	amod	nmod	1
+4	27	nmod	nmod	1
+2	24	amod	nmod	1
+
+passage:3173180
+3	6	nmod	root	1
+4	18	nmod	dobj	1
+4	53	compound	nmod	1
+
+passage:8996652
+2	23	appos	compound	0
+6	23	appos	compound	0
+
+passage:84204
+2	12	amod	nmod	1
+2	10	amod	nmod	1
+
+passage:9862868
+14	33	appos	nmod	0
+
+passage:15515654
+3	16	nmod	compound	0
+5	13	compound	nmod	1
+6	17	nmod	nmod	0
+
+passage:2024540
+8	23	nmod	nmod	0
+12	23	nmod	nmod	0
+8	32	nmod	nmod	0
+12	32	nmod	nmod	1
+17	34	nmod	nmod	0
+8	34	amod	nmod	1
+14	34	compound	nmod	1
+1	28	dobj	dobj	0
+17	28	dobj	dobj	1
+
+passage:12090760
+2	21	amod	nmod	1
+6	35	appos	nsubjpass	1
+
+passage:7516729
+3	17	nmod	nsubjpass	1
+6	17	nmod	nsubjpass	0
+14	17	nmod	nsubjpass	0
+
+passage:2802551
+1	9	compound	dobj	0
+2	9	compound	dobj	1
+1	28	nmod	compound	1
+
+passage:19346865
+2	19	amod	nmod	1
+2	32	amod	nmod	1
+1	35	amod	dobj	1
+18	28	dobj	dobj	0
+4	21	advcl	nmod	1
+
+passage:2334618
+13	50	nmod	nmod	0
+28	50	nmod	nmod	0
+26	29	compound	nsubj	0
+20	29	compound	nmod	0
+4	29	compound	nmod	1
+
+passage:8864707
+3	13	compound	compound	0
+2	13	compound	nmod	1
+3	24	compound	nmod	0
+5	24	compound	compound	0
+4	29	compound	nmod	0
+14	29	compound	nsubj	1
+
+passage:12589964
+1	29	amod	compound	1
+5	56	appos	dobj	1
+21	56	appos	nmod	1
+2	17	compound	nmod	0
+4	20	dobj	nmod	0
+11	28	nmod	dobj	1
+2	28	nmod	nmod	0
+25	74	nmod	dobj	0
+
+passage:11263551
+18	24	nmod	nmod	1
+6	24	compound	nmod	0
+13	24	compound	nmod	1
+13	42	nmod	compound	1
+17	42	nmod	compound	1
+
+passage:10520387
+10	23	nmod	compound	0
+8	23	nmod	compound	1
+13	27	nmod	compound	0
+1	27	nmod	compound	1
+10	29	nmod	nsubj	1
+6	29	nmod	nsubj	1
+12	30	nmod	dobj	0
+16	30	nmod	nmod	1
+
+passage:230316
+1	12	nmod	nsubj	0
+1	18	nmod	compound	0
+16	30	nmod	nsubj	0
+14	30	nmod	nmod	1
+
+passage:11807648
+8	12	dobj	root	0
+5	10	nsubjpass	dobj	0
+3	16	nsubj	compound	1
+10	17	dobj	compound	1
+6	12	nmod	nmod	1
+12	43	nmod	compound	1
+3	10	nsubj	compound	1
+
+passage:14596845
+6	13	nmod	dobj	0
+5	13	nmod	dobj	1
+5	23	nmod	dobj	1
+44	64	nmod	root	1
+53	64	nmod	root	1
+
+passage:6666578
+1	5	amod	root	1
+
+passage:11279304
+2	10	amod	nmod	0
+9	13	nsubj	dobj	0
+16	25	compound	dobj	0
+5	25	compound	nsubj	0
+11	41	appos	nmod	0
+6	41	appos	nmod	0
+2	41	amod	nmod	0
+3	41	amod	nmod	0
+6	11	amod	nmod	0
+2	27	acl	nmod	1
+2	20	amod	nmod	0
+
+passage:19884587
+2	102	nsubjpass	nmod	1
+91	102	nsubjpass	dep	1
+87	102	nsubjpass	dep	1
+90	102	nsubjpass	dep	1
+89	102	nsubjpass	dep	1
+88	102	nsubjpass	dep	1
+64	69	nsubjpass	nmod	1
+66	69	nsubjpass	nmod	1
+2	69	nsubjpass	nmod	1
+49	69	nsubjpass	nmod	1
+65	69	nsubjpass	nmod	1
+63	69	nsubjpass	nmod	1
+18	27	nsubjpass	nmod	0
+3	27	nsubjpass	nmod	0
+4	27	nsubjpass	nmod	0
+2	17	nsubjpass	nmod	1
+5	17	nsubjpass	nmod	1
+
+passage:3970039
+5	27	nsubjpass	nmod	1
+9	27	nsubjpass	nmod	0
+5	27	nsubjpass	nmod	1
+9	27	nsubjpass	nmod	1
+3	29	nmod	nmod	0
+7	29	nmod	nmod	0
+11	29	nmod	nmod	0
+7	29	nmod	nmod	0
+6	50	appos	nmod	0
+22	50	appos	nmod	0
+
+passage:424937
+2	7	nmod	nmod	1
+3	15	nmod	nmod	0
+11	35	dobj	nmod	0
+15	24	amod	dobj	0
+2	24	amod	nmod	1
+14	36	nmod	nmod	1
+4	36	nmod	nmod	0
+
+passage:8643971
+7	17	nmod	nmod	0
+4	17	conj	nmod	0
+8	57	nsubjpass	compound	0
+15	57	nsubjpass	nmod	0
+13	35	compound	nmod	0
+4	35	advcl	dobj	0
+5	35	compound	dobj	0
+12	35	advcl	nmod	0
+14	22	compound	compound	0
+8	20	root	nmod	0
+
+passage:2224762
+11	27	appos	nmod	0
+
+passage:2440413
+3	11	appos	nmod	0
+1	52	amod	compound	1
+4	52	nmod	compound	0
+12	29	nmod	amod	0
+12	32	nmod	amod	0
+23	50	nmod	compound	1
+15	50	nmod	compound	1
+24	50	nmod	compound	1
+4	50	appos	compound	1
+8	50	nmod	compound	1
+25	50	nmod	compound	1
+13	35	compound	amod	1
+16	35	compound	amod	1
+11	35	nmod	amod	0
+7	27	compound	compound	0
+2	27	nmod	compound	0
+
+passage:12483326
+2	15	nmod	nmod	0
+8	15	nmod	dep	0
+4	23	nmod	nsubjpass	0
+11	23	nsubjpass	nsubjpass	0
+10	24	nmod	nmod	0
+2	20	nmod	nmod	0
+2	13	compound	nmod	0
+6	20	nmod	nmod	0
+
+passage:1664218
+5	14	compound	nmod	0
+3	14	appos	nmod	0
+10	17	dep	compound	0
+
+passage:18809400
+1	11	nsubj	dobj	0
+4	11	nsubj	nmod	0
+8	11	nsubj	dobj	0
+12	33	nmod	nsubj	0
+8	33	nmod	nmod	0
+16	33	nmod	dobj	0
+22	47	nmod	dobj	0
+26	47	nmod	dobj	1
+21	33	nmod	dobj	0
+1	26	nsubj	dobj	0
+5	26	nsubj	dobj	0
+13	36	nsubj	dobj	0
+6	36	nsubj	dobj	0
+5	17	nmod	dobj	0
+7	17	nmod	nsubj	0
+1	17	nmod	dobj	0
+11	17	nmod	nsubj	0
+9	25	nsubj	nmod	0
+
+passage:17020434
+3	34	nsubj	nmod	0
+9	34	nsubj	nmod	0
+6	24	nsubj	dobj	0
+4	24	nmod	dobj	0
+5	35	compound	nmod	0
+5	35	nsubjpass	nmod	0
+17	35	compound	compound	0
+7	35	nsubjpass	compound	1
+19	36	dep	compound	0
+11	36	nsubj	nmod	0
+2	36	nmod	compound	0
+6	36	dep	nmod	0
+14	36	nsubj	compound	0
+23	36	nmod	nmod	0
+24	36	dep	compound	0
+1	36	dep	nmod	0
+11	15	nsubjpass	nmod	0
+8	15	amod	nmod	0
+6	15	compound	nmod	0
+10	15	amod	nmod	0
+4	15	compound	nmod	0
+
+passage:3865016
+5	18	nmod	nmod	0
+9	18	nmod	nmod	0
+7	19	nmod	nmod	0
+3	19	nmod	nmod	0
+
+passage:3629586
+2	21	compound	nmod	0
+12	21	nmod	nmod	0
+8	21	nmod	nmod	0
+3	21	compound	nmod	0
+23	36	nmod	nmod	1
+24	36	nmod	nmod	1
+5	36	nmod	compound	0
+12	36	nmod	compound	0
+16	36	nmod	nmod	1
+4	36	nmod	nmod	1
+11	36	nmod	nmod	1
+17	36	nmod	nmod	1
+15	29	dobj	nsubj	1
+13	29	dobj	nmod	0
+8	29	dobj	nsubj	1
+20	29	dobj	nmod	0
+2	57	conj	nsubjpass	0
+8	57	dep	nsubjpass	0
+9	57	dep	nsubjpass	0
+3	41	amod	nmod	0
+10	41	nmod	nmod	0
+4	41	nmod	nmod	0
+
+passage:150790
+2	7	amod	nsubj	0
+3	7	nmod	nsubj	1
+3	22	nmod	nmod	0
+11	22	nmod	nmod	1
+13	22	nmod	dobj	1
+2	22	nmod	nmod	0
+5	12	nmod	nmod	0
+
+passage:10579464
+4	16	nsubj	dobj	0
+5	16	appos	dobj	1
+1	16	nsubj	dobj	0
+2	26	nsubj	dobj	1
+5	26	nsubj	dobj	1
+
+passage:3496378
+3	7	amod	nmod	1
+5	7	amod	root	1
+1	18	amod	nsubjpass	1
+2	18	amod	nmod	1
+7	16	nmod	nsubjpass	1
+9	16	nmod	nmod	1
+2	12	amod	dobj	1
+5	12	amod	nsubj	1
+
+passage:3076126
+9	40	advcl	nmod	1
+30	40	nmod	nsubjpass	1
+24	40	nmod	nmod	0
+12	40	advcl	nmod	1
+17	40	nmod	nmod	0
+27	40	nmod	nmod	0
+37	40	nmod	nsubjpass	1
+36	40	nmod	nsubjpass	1
+22	40	advcl	nsubjpass	0
+26	40	nmod	nmod	0
+20	40	nmod	nmod	0
+23	40	nmod	nmod	0
+
+passage:2894766
+1	3	amod	root	1
+17	31	compound	nmod	1
+24	31	compound	root	1
+22	31	compound	appos	1
+1	31	compound	nmod	0
+4	26	amod	nmod	0
+1	26	amod	dobj	1
+9	20	amod	nmod	0
+1	20	amod	compound	1
+
+passage:1549199
+12	50	dobj	nmod	0
+12	50	dobj	nmod	0
+8	34	amod	nmod	1
+5	34	amod	conj	1
+12	34	amod	nmod	0
+11	34	amod	nmod	1
+13	34	amod	nmod	0
+
+passage:88336
+2	20	nmod	nmod	0
+5	20	compound	dobj	0
+10	20	nmod	nmod	0
+9	20	nmod	dobj	0
+2	20	compound	nmod	0
+3	20	nmod	dobj	1
+12	36	compound	nmod	1
+5	36	compound	nmod	1
+2	36	compound	nmod	1
+9	36	compound	nmod	0
+
+passage:18544179
+5	18	nsubj	dobj	0
+9	18	nmod	dobj	0
+9	18	nsubj	dobj	0
+2	18	nsubj	dobj	0
+2	18	nmod	dobj	0
+6	18	nmod	dobj	0
+7	26	nmod	nmod	0
+8	26	nmod	nmod	0
+17	35	compound	nmod	0
+10	35	compound	nmod	0
+9	35	compound	nmod	0
+16	60	nmod	nmod	0
+21	60	nmod	nmod	0
+9	18	nsubj	nmod	0
+14	18	nsubj	nmod	0
+51	75	compound	nsubjpass	0
+18	75	compound	dobj	0
+9	14	nmod	compound	0
+4	23	compound	dobj	0
+6	23	nsubj	dobj	1
+9	23	compound	dobj	0
+10	23	compound	dobj	0
+1	23	nsubj	dobj	1
+7	23	nsubj	dobj	1
+9	42	nsubj	dobj	0
+30	42	nmod	dobj	0
+5	42	nsubj	nmod	0
+13	42	nsubj	dobj	0
+22	42	nmod	nmod	0
+26	42	nmod	dobj	0
+
+passage:18186898
+2	12	nsubjpass	nmod	0
+2	30	nsubjpass	nmod	0
+2	30	compound	nmod	0
+5	27	nmod	nmod	0
+13	27	nmod	nsubj	1
+4	27	nmod	nsubj	1
+10	27	nmod	nmod	0
+8	27	nmod	nsubj	1
+1	27	nmod	nsubj	1
+
+passage:16867021
+4	19	amod	nmod	0
+4	33	dep	nmod	0
+10	33	compound	nmod	0
+7	33	compound	nmod	0
+12	39	nsubjpass	nsubjpass	0
+2	39	nmod	nsubjpass	1
+25	39	nsubjpass	nsubjpass	0
+24	32	appos	dobj	0
+1	32	dep	dobj	1
+25	32	dep	dobj	0
+9	34	nmod	compound	1
+25	34	nmod	compound	1
+4	29	nsubj	nmod	0
+2	29	amod	nmod	1
+9	22	amod	dobj	0
+10	22	nsubj	dobj	0
+3	22	amod	dobj	0
+1	22	amod	dobj	1
+5	22	amod	dobj	0
+5	22	amod	dobj	1
+1	22	amod	dobj	1
+6	22	nsubj	dobj	1
+
+passage:14976857
+2	15	compound	nmod	0
+5	15	compound	nmod	0
+21	28	compound	nmod	0
+3	28	compound	nmod	0
+
+passage:11745184
+7	25	nmod	nmod	0
+3	25	appos	nmod	0
+3	20	nsubj	compound	0
+13	20	nsubj	nmod	0
+5	38	nmod	appos	1
+4	38	nmod	nsubj	0
+12	38	nmod	appos	0
+11	38	nmod	appos	1
+20	38	nmod	nmod	0
+20	26	nsubjpass	compound	0
+9	26	nmod	compound	0
+5	26	nmod	compound	0
+7	28	amod	nmod	1
+8	28	nmod	nmod	0
+6	28	amod	nmod	1
+2	28	amod	nmod	1
+17	28	nmod	nmod	0
+16	28	nmod	nmod	0
+7	39	nmod	nmod	0
+5	39	nmod	nmod	0
+11	23	nmod	amod	0
+8	23	nmod	dobj	0
+10	23	nmod	dobj	0
+13	23	nmod	amod	0
+
+passage:3985451
+2	7	amod	nmod	1
+1	7	amod	dep	1
+9	33	compound	dobj	0
+19	33	compound	dobj	0
+3	33	compound	dobj	1
+8	36	amod	nsubj	1
+5	36	amod	nmod	0
+2	36	amod	nmod	0
+25	36	amod	appos	0
+15	36	amod	nmod	0
+
+passage:3750012
+6	11	compound	nsubj	1
+1	11	compound	nmod	0
+4	11	compound	nmod	0
+3	11	compound	nsubj	1
+10	22	compound	dobj	1
+1	22	compound	nmod	0
+4	22	compound	nmod	0
+7	22	compound	dobj	1
+
+passage:1130930
+4	6	compound	root	0
+21	28	compound	dobj	1
+18	28	compound	dobj	1
+
+passage:19356307
+2	11	nmod	dobj	0
+1	29	nmod	amod	0
+5	29	nmod	amod	0
+7	35	nmod	dobj	1
+8	35	nsubj	dobj	0
+
+passage:15957009
+11	21	compound	nmod	0
+14	21	nsubj	nmod	0
+4	51	compound	dobj	1
+24	51	appos	dobj	0
+1	51	appos	dobj	0
+7	51	compound	dobj	0
+15	51	nmod	dobj	0
+19	51	dep	dobj	0
+
+passage:15899738
+4	8	compound	nsubj	1
+4	12	dobj	nmod	0
+
+passage:15863244
+23	27	compound	nmod	0
+20	27	dep	nmod	0
+3	28	nmod	dobj	0
+15	28	dep	dobj	0
+17	23	nmod	nsubjpass	0
+10	23	nmod	nsubjpass	1
+9	23	nmod	nsubjpass	1
+3	23	compound	nmod	0
+
+passage:12921865
+2	11	compound	nmod	1
+3	11	nmod	nmod	0
+23	48	dep	compound	0
+2	48	xcomp	compound	0
+3	48	compound	compound	1
+20	50	nsubjpass	nmod	0
+19	50	nsubjpass	nmod	0
+2	50	amod	nmod	1
+5	15	nmod	dobj	1
+6	28	compound	nmod	0
+10	28	nsubj	nmod	0
+6	28	nsubj	nmod	0
+
+passage:12584269
+8	23	nsubj	compound	1
+11	23	nsubjpass	compound	1
+20	54	nmod	nmod	0
+18	54	nmod	nmod	0
+6	23	compound	nmod	0
+10	23	nsubj	nmod	0
+8	23	nsubjpass	compound	1
+1	23	nmod	compound	1
+9	23	nmod	compound	1
+
+passage:10406016
+1	10	compound	nmod	0
+11	33	dobj	dobj	0
+18	33	dobj	nmod	0
+23	32	amod	nmod	0
+6	32	amod	nmod	1
+18	32	amod	dobj	0
+
+passage:3403780
+1	11	amod	root	0
+2	11	amod	appos	1
+11	19	compound	nmod	1
+
+passage:3101906
+8	28	compound	nmod	1
+8	28	compound	nmod	0
+13	28	compound	nmod	1
+4	26	nmod	dobj	1
+
+passage:9088814
+2	14	amod	nmod	1
+4	14	amod	nmod	0
+4	26	appos	dep	1
+11	26	appos	dep	0
+24	39	compound	nsubjpass	0
+8	25	nmod	dobj	1
+32	64	nsubj	nmod	0
+2	23	amod	nmod	1
+6	23	amod	dobj	1
+4	23	amod	nmod	0
+
+passage:20880751
+1	12	amod	root	1
+3	12	amod	nmod	0
+8	12	nsubj	nmod	0
+8	19	compound	nmod	0
+6	27	amod	nmod	1
+8	47	amod	nmod	0
+12	47	compound	nmod	0
+2	47	amod	nmod	1
+
+passage:20080419
+3	28	nmod	nmod	1
+
+passage:19445921
+2	10	nmod	nmod	0
+2	10	amod	nmod	1
+2	18	nmod	nmod	0
+2	18	amod	nmod	1
+12	21	dep	root	0
+19	21	amod	root	0
+3	23	amod	dobj	0
+13	23	nmod	dobj	0
+1	23	amod	dobj	0
+9	23	nmod	dobj	0
+2	15	amod	nmod	0
+2	15	nmod	nmod	0
+8	20	nsubj	nmod	0
+2	20	amod	nmod	1
+
+passage:18439803
+6	14	nmod	nmod	0
+1	14	compound	nmod	0
+2	14	amod	nmod	1
+23	37	nsubj	nmod	0
+8	37	nmod	nmod	0
+2	37	amod	nmod	1
+7	42	nsubj	nmod	0
+12	42	compound	nmod	0
+26	42	nmod	nmod	0
+4	42	nsubj	nmod	0
+2	42	amod	nmod	1
+22	42	nmod	nmod	0
+21	38	nsubj	nmod	0
+12	38	nmod	nmod	0
+28	38	nmod	nmod	0
+16	38	nmod	nmod	0
+2	38	amod	nmod	1
+
+passage:17919553
+3	8	nmod	compound	1
+5	16	compound	dobj	0
+13	22	compound	nmod	1
+15	33	nsubj	dobj	1
+3	33	nsubj	compound	0
+17	26	dobj	compound	1
+8	18	nmod	nmod	1
+
+passage:15632880
+2	9	amod	conj	1
+1	9	amod	root	1
+5	9	amod	nmod	0
+8	33	nmod	nmod	1
+20	33	nmod	nmod	1
+18	33	nsubj	nmod	0
+30	33	nsubj	nmod	0
+4	33	nmod	compound	0
+14	33	nsubj	compound	0
+7	26	nmod	nmod	0
+10	23	nmod	nmod	1
+6	23	nmod	nmod	1
+2	23	nmod	compound	0
+2	19	nmod	compound	0
+12	40	dep	dobj	0
+20	40	dep	dobj	0
+1	40	dep	dobj	0
+9	40	dep	dobj	0
+2	31	nmod	nmod	1
+16	31	nmod	nmod	1
+18	47	dobj	nsubj	0
+14	47	dobj	dobj	0
+29	37	compound	dobj	0
+17	37	dobj	dobj	0
+1	18	amod	nsubj	1
+3	18	amod	nsubj	1
+
+passage:11773892
+9	16	nsubjpass	xcomp	1
+3	16	nsubjpass	xcomp	1
+20	44	dep	nmod	0
+23	47	dobj	nmod	0
+35	47	dobj	compound	0
+29	60	nmod	nmod	0
+15	22	dobj	dobj	0
+1	22	dobj	dobj	0
+16	23	nmod	nmod	0
+
+passage:10835440
+9	13	nmod	nmod	0
+8	32	amod	nmod	0
+2	32	amod	nmod	1
+37	53	compound	nmod	0
+1	29	compound	nmod	1
+3	25	nmod	nmod	0
+
+passage:9523805
+8	17	nmod	root	1
+12	17	nmod	root	0
+13	17	nmod	root	1
+2	23	nmod	nsubj	0
+4	23	compound	nsubj	1
+15	28	dobj	nmod	1
+10	28	nmod	nmod	0
+14	28	nmod	nmod	1
+16	35	dobj	dobj	1
+1	35	dobj	dobj	0
+25	35	dobj	dobj	1
+21	28	nsubj	nmod	1
+18	28	nmod	nmod	1
+
+passage:9245658
+2	8	nmod	nmod	1
+5	16	nsubj	nmod	1
+4	32	nsubj	nmod	1
+5	10	nsubj	dobj	0
+
+passage:9034419
+5	7	compound	root	1
+3	7	compound	nmod	1
+2	10	compound	nmod	1
+4	19	nmod	nmod	0
+2	19	nmod	dobj	1
+8	17	compound	dobj	1
+3	22	compound	nmod	1
+2	22	compound	nmod	1
+3	24	nmod	compound	1
+10	23	compound	dobj	1
+2	23	compound	nsubj	1
+
+passage:8829025
+24	36	dobj	compound	1
+3	36	dobj	compound	0
+3	33	nmod	dobj	1
+4	33	nmod	dobj	0
+23	33	nmod	dobj	0
+16	33	nmod	dobj	1
+
+passage:8437969
+1	6	nmod	nsubj	1
+7	17	nmod	nmod	1
+6	26	dep	nmod	1
+13	26	dep	nmod	0
+18	26	dep	nmod	0
+9	23	compound	nsubj	0
+5	23	compound	nsubj	0
+3	13	nmod	nmod	1
+
+passage:7890216
+3	12	nmod	nmod	1
+7	12	nmod	nmod	0
+8	16	nsubj	dobj	1
+5	16	nsubj	nmod	0
+6	38	nmod	nmod	1
+5	38	nmod	compound	0
+17	25	nsubj	nmod	0
+8	39	nmod	dobj	0
+1	45	dobj	dobj	0
+37	45	nsubj	dobj	1
+25	45	nmod	dobj	0
+
+passage:7468724
+1	8	compound	nmod	0
+3	8	compound	nsubj	1
+2	14	nmod	nmod	0
+8	14	nmod	nsubj	1
+
+passage:7199841
+7	19	nmod	dobj	1
+15	25	dobj	dobj	0
+3	26	dobj	dobj	1
+
+passage:6640832
+7	22	nsubjpass	dobj	0
+
+passage:3560096
+3	6	compound	nsubj	1
+14	19	nmod	nsubjpass	1
+14	23	compound	nsubj	1
+21	30	nmod	nmod	0
+4	30	nmod	nmod	1
+
+passage:3358181
+6	12	compound	root	1
+9	29	nmod	nmod	0
+9	16	nmod	nmod	0
+6	28	nmod	compound	0
+7	28	nmod	nmod	0
+
+passage:2887062
+2	16	amod	nmod	1
+6	16	compound	nmod	0
+2	45	amod	compound	1
+8	45	nmod	compound	0
+4	22	compound	compound	0
+
+passage:2425813
+8	15	nmod	nsubj	1
+11	15	nmod	nsubj	1
+
+passage:2375138
+2	8	amod	dep	1
+3	8	amod	dep	0
+8	19	nmod	nmod	1
+2	19	nmod	nmod	0
+
+passage:2265898
+4	12	compound	nsubj	1
+23	55	compound	dobj	0
+7	55	compound	nmod	0
+9	55	compound	compound	0
+
+passage:2071257
+2	9	nmod	nmod	1
+2	9	nmod	nmod	0
+3	23	nmod	nmod	1
+3	23	appos	nmod	0
+2	18	nmod	dobj	1
+
+passage:1592014
+4	10	compound	nsubj	1
+1	10	nmod	nsubj	1
+15	33	nmod	nmod	1
+20	33	nmod	nmod	0
+10	20	nmod	dobj	1
+6	20	appos	dobj	1
+10	20	nmod	nsubj	1
+5	20	amod	nsubj	1
+13	44	amod	nsubjpass	1
+7	44	nmod	nsubjpass	1
+37	44	amod	nmod	0
+17	44	nmod	nmod	0
+1	18	amod	nmod	1
+13	18	amod	nmod	1
+11	33	compound	nmod	1
+13	33	appos	nmod	1
+
+passage:1436384
+2	18	amod	nmod	1
+15	18	compound	nmod	0
+9	18	nmod	nmod	0
+6	18	compound	nmod	0
+3	39	compound	compound	1
+16	39	nsubj	compound	0
+19	39	compound	compound	0
+10	39	compound	compound	0
+
+passage:1085609
+2	9	root	dep	0
+5	9	compound	dep	1
+6	23	compound	nmod	0
+14	23	compound	nmod	1
+16	22	compound	nsubj	0
+19	22	compound	nsubj	1
+
+passage:809711
+11	15	nmod	nmod	0
+5	15	nmod	nmod	0
+1	24	amod	dobj	1
+13	24	amod	nmod	0
+4	41	dobj	nmod	0
+11	20	nmod	nmod	0
+9	20	nmod	nmod	0
+
+passage:20621845
+1	24	amod	dobj	1
+5	59	appos	dobj	0
+38	59	appos	compound	1
+4	42	compound	compound	1
+
+passage:19843802
+9	16	nmod	compound	1
+
+passage:19473225
+2	11	nmod	nmod	1
+3	11	compound	nmod	0
+4	32	nsubjpass	dobj	0
+1	32	compound	dobj	0
+29	32	compound	nsubj	1
+24	32	nsubjpass	nsubj	0
+5	32	compound	dobj	0
+23	32	compound	nsubj	0
+1	28	amod	dobj	1
+3	28	compound	dobj	0
+11	54	amod	compound	0
+17	54	nmod	compound	0
+2	22	nmod	nmod	1
+7	22	compound	nmod	0
+
+passage:19387625
+2	11	amod	nmod	1
+3	11	amod	compound	1
+2	20	amod	nmod	1
+7	20	amod	compound	1
+9	25	amod	nmod	1
+1	29	amod	nsubj	1
+6	29	amod	dobj	1
+
+passage:19211690
+1	12	amod	root	0
+10	12	amod	root	0
+4	12	nmod	root	0
+14	33	nmod	nmod	0
+10	33	nmod	nmod	0
+2	23	nmod	dobj	0
+11	23	compound	dobj	0
+8	26	compound	nmod	0
+4	26	nsubj	nmod	0
+15	26	nsubj	nmod	0
+19	26	compound	nmod	0
+
+passage:18703024
+2	14	amod	nmod	1
+5	14	amod	nmod	0
+
+passage:18631865
+6	32	dep	nmod	0
+10	42	compound	nsubjpass	1
+
+passage:18162529
+7	25	compound	compound	0
+9	25	nmod	compound	0
+16	25	amod	nsubj	0
+6	34	compound	nsubj	0
+3	34	nmod	nsubj	1
+23	34	nmod	nsubj	0
+6	17	amod	nmod	0
+
+passage:17879945
+2	22	compound	compound	1
+
+passage:17437408
+2	18	amod	nmod	1
+
+passage:17242861
+4	30	amod	nmod	1
+21	30	amod	compound	1
+2	28	amod	nmod	1
+2	23	amod	nmod	1
+
+passage:16337777
+2	14	nmod	nmod	1
+34	58	compound	nmod	1
+1	58	compound	nmod	1
+
+passage:15859940
+2	20	dep	dobj	0
+5	20	appos	dobj	0
+6	17	nmod	nmod	1
+
+passage:15188772
+8	10	compound	root	0
+4	10	compound	nmod	0
+6	19	nmod	nsubjpass	0
+11	41	nmod	appos	0
+2	41	nmod	dobj	1
+24	41	nmod	nmod	1
+
+passage:15130900
+6	11	nmod	nmod	0
+7	11	nmod	root	1
+6	24	nmod	nmod	0
+6	24	nmod	nmod	1
+4	30	nmod	nmod	1
+7	29	nmod	nmod	1
+28	39	nmod	nmod	0
+5	39	nmod	nmod	1
+
+passage:12707296
+3	8	compound	nmod	0
+2	8	amod	nmod	0
+2	10	compound	nmod	0
+2	10	amod	nmod	0
+9	16	compound	nsubjpass	0
+1	16	amod	nsubjpass	0
+
+passage:12695819
+2	14	amod	nmod	0
+3	22	dobj	dobj	0
+2	16	amod	nmod	0
+
+passage:12596116
+2	8	amod	conj	1
+1	8	amod	root	0
+5	18	appos	nmod	0
+8	18	appos	nsubj	1
+
+passage:11875660
+3	37	nmod	dobj	0
+
+passage:11166519
+2	12	amod	root	1
+8	25	nmod	nmod	1
+2	17	amod	nmod	1
+
+passage:8701950
+2	8	appos	compound	1
+10	21	appos	appos	1
+4	35	nmod	nmod	0
+6	35	nmod	nmod	0
+5	35	nmod	nmod	0
+26	35	nmod	nmod	1
+5	14	nmod	nmod	1
+1	15	amod	nsubj	1
+11	31	appos	dobj	0
+18	31	nsubj	dobj	1
+
+passage:7292072
+4	6	compound	root	1
+2	6	compound	nmod	0
+6	12	compound	nmod	1
+2	12	compound	nmod	0
+
+passage:4027862
+1	12	amod	root	1
+4	23	nmod	dobj	1
+
+passage:2484011
+1	22	compound	compound	0
+25	29	nmod	nsubj	1
+3	46	nmod	nmod	1
+32	46	nmod	nmod	0
+5	46	nmod	nmod	0
+19	46	compound	nmod	0
+
+passage:2396046
+11	35	amod	nsubj	1
+9	35	dobj	nsubj	0
+38	44	compound	nmod	1
+37	44	amod	nmod	0
+
+passage:2008831
+9	17	nmod	nmod	0
+21	34	nmod	nmod	0
+12	34	nmod	nmod	0
+16	34	nmod	nmod	0
+6	47	nmod	nmod	0
+13	47	nmod	compound	0
+
+passage:1732369
+7	20	amod	nmod	0
+6	20	compound	nmod	0
+9	16	nsubj	dobj	1
+4	16	nsubj	compound	0
+21	38	nmod	nmod	1
+11	38	compound	nmod	0
+4	38	nmod	nmod	0
+6	38	compound	nmod	0
+
+passage:234669
+7	12	nmod	dobj	1
+8	12	nmod	nmod	0
+5	25	nmod	compound	1
+7	25	nmod	nmod	0
+19	42	appos	compound	0
+5	42	nmod	compound	1
+17	42	nmod	compound	0
+27	42	nmod	compound	0
+9	47	nmod	compound	1
+24	47	nmod	nmod	0
+26	47	nmod	nsubjpass	0
+8	30	appos	nmod	0
+6	30	appos	nmod	0
+
+passage:16740173
+
+passage:12464714
+4	18	nmod	nmod	0
+6	18	compound	nmod	0
+22	26	nsubj	nmod	0
+19	26	compound	nmod	0
+16	39	nmod	compound	0
+19	39	compound	compound	0
+34	39	nsubj	compound	0
+16	32	dobj	nmod	0
+24	32	dobj	nmod	0
+10	17	nmod	acl	0
+11	39	nmod	nummod	0
+24	39	appos	nummod	0
+25	40	nmod	compound	0
+28	40	nmod	compound	0
+25	47	nmod	nmod	0
+2	47	dobj	nmod	0
+25	46	nmod	conj	0
+28	46	nsubj	conj	0
+21	46	nsubj	nmod	1
+27	46	nsubj	conj	0
+22	46	nmod	conj	0
+25	46	nsubj	conj	0
+24	46	nmod	conj	0
+18	46	nmod	nmod	0
+18	55	dep	conj	1
+19	55	dep	root	1
+27	55	dep	conj	0
+24	55	dep	conj	0
+22	55	dep	root	0
+15	55	dep	conj	0
+
+passage:6203452
+21	32	nmod	nmod	0
+16	32	nmod	dobj	0
+18	32	nmod	nmod	0
+25	32	nmod	dobj	0
+12	32	nmod	nmod	0
+24	32	nmod	dobj	0
+5	32	nmod	nmod	0
+26	32	nmod	nmod	0
+13	32	nmod	nmod	0
+4	32	nmod	nmod	1
+22	32	nmod	nmod	0
+13	32	nmod	nmod	0
+13	32	nmod	nmod	0
+27	32	nmod	nmod	0
+14	32	nmod	nmod	0
+8	44	compound	nmod	0
+5	44	compound	nsubjpass	0
+2	44	compound	nmod	1
+7	44	compound	nmod	0
+6	44	compound	conj	1
+
+passage:20528871
+7	24	nmod	dep	1
+15	24	nmod	dobj	1
+5	26	nmod	nsubj	1
+4	26	nmod	nsubjpass	0
+14	26	dobj	nsubjpass	1
+8	26	nmod	nsubjpass	0
+
+passage:11672959
+12	33	nmod	nmod	1
+10	33	nmod	nmod	1
+11	33	nmod	nmod	1
+20	33	nmod	nmod	1
+3	33	nmod	nmod	0
+
+passage:11928786
+3	6	appos	dep	0
+12	16	nmod	nsubjpass	0
+4	16	nmod	nsubjpass	0
+3	16	nmod	nsubjpass	0
+5	16	nmod	nsubjpass	0
+7	11	nsubj	nmod	0
+6	11	nsubj	dobj	0
+
+passage:7977601
+
+passage:19300402
+8	23	nmod	compound	1
+6	23	nmod	dobj	1
+18	23	compound	compound	0
+12	23	compound	dobj	0
+12	23	nmod	compound	0
+2	23	nmod	dobj	1
+8	23	compound	dobj	0
+14	23	compound	compound	0
+13	29	compound	dobj	0
+4	29	compound	dobj	0
+2	30	nmod	nmod	0
+3	30	nmod	nmod	1
+9	30	compound	nmod	0
+15	21	nsubj	nmod	0
+1	21	nmod	nmod	0
+1	27	nsubj	compound	0
+3	27	advcl	compound	1
+5	27	compound	compound	0
+16	27	amod	compound	1
+11	30	compound	nmod	0
+7	30	compound	nmod	0
+
+passage:15325671
+1	12	amod	nmod	0
+6	12	amod	nsubj	0
+20	31	compound	nmod	0
+22	31	dobj	nmod	0
+9	31	dobj	nmod	0
+21	31	compound	nmod	0
+10	31	dobj	nmod	0
+5	73	dobj	nmod	0
+3	73	nmod	dep	0
+19	73	dobj	appos	1
+56	73	nmod	nmod	0
+32	73	nmod	appos	0
+48	73	dobj	dep	0
+12	73	nmod	appos	0
+39	73	dobj	appos	0
+2	31	nmod	nmod	1
+3	17	amod	nmod	0
+6	12	nmod	compound	1
+
+passage:9746003
+5	11	nmod	nmod	1
+1	11	nmod	nmod	1
+5	10	nsubjpass	nmod	1
+2	10	nsubjpass	nmod	1
+9	25	nmod	nmod	1
+
+passage:1992636
+4	8	nmod	nsubj	1
+3	19	nmod	parataxis	1
+7	19	nmod	dobj	1
+6	19	nmod	dobj	1
+1	24	nsubj	dobj	1
+
+passage:8387218
+3	19	appos	dep	0
+4	19	appos	compound	0
+6	19	appos	dep	0
+5	19	appos	compound	0
+19	28	dobj	nmod	0
+20	28	dobj	compound	1
+
+passage:20698227
+3	12	nmod	dobj	0
+23	31	nsubjpass	dobj	0
+5	31	nmod	dobj	1
+10	31	nmod	dobj	1
+6	13	nmod	nsubjpass	0
+2	13	nmod	nsubjpass	0
+4	35	nsubj	nmod	0
+1	35	nsubj	dobj	1
+
+passage:20477932
+22	31	compound	nmod	0
+
+passage:9495837
+1	12	nmod	amod	0
+18	42	nmod	dobj	1
+2	42	nmod	dobj	1
+10	42	nsubj	dobj	0
+16	85	compound	amod	0
+10	85	dep	amod	0
+9	30	nsubj	amod	0
+
+passage:1468485
+1	15	compound	nmod	0
+6	21	nmod	dobj	0
+
+passage:1009330
+3	20	nmod	dobj	1
+11	20	nsubj	dobj	0
+5	24	compound	nmod	1
+2	24	compound	nmod	1
+6	30	compound	nmod	0
+
+passage:347884
+13	22	nmod	nmod	0
+
+passage:20667451
+4	15	nmod	compound	1
+2	15	nsubj	compound	0
+10	15	nmod	compound	1
+6	19	nsubjpass	dobj	1
+5	19	nsubjpass	dobj	1
+10	30	nmod	dobj	1
+11	30	compound	dobj	0
+5	30	amod	dobj	1
+7	21	nmod	dobj	1
+1	21	nmod	dobj	1
+1	19	compound	dobj	0
+7	31	nmod	compound	1
+7	31	nsubj	compound	0
+11	31	nmod	compound	1
+7	30	nmod	dobj	1
+19	30	nsubjpass	dobj	0
+3	30	nmod	dobj	1
+
+passage:19767176
+1	11	compound	compound	1
+8	11	nsubj	compound	0
+16	36	compound	nmod	0
+15	24	compound	amod	1
+4	24	nmod	amod	0
+8	19	acl	nsubj	0
+14	25	nmod	nmod	0
+1	23	amod	nmod	0
+10	23	nsubj	dobj	0
+12	35	compound	amod	0
+10	35	compound	nmod	0
+
+passage:16330293
+
+passage:14568327
+2	19	amod	nmod	1
+3	19	amod	compound	0
+1	20	amod	appos	1
+14	20	amod	appos	0
+9	46	compound	nmod	1
+34	46	amod	nmod	0
+2	46	amod	nmod	1
+27	46	compound	nmod	0
+10	36	compound	dobj	1
+16	36	compound	dobj	0
+10	46	compound	appos	1
+25	46	compound	appos	0
+15	42	nmod	nmod	1
+
+passage:11250767
+2	11	amod	dep	0
+7	11	amod	nmod	1
+2	13	amod	nmod	0
+2	13	amod	nmod	1
+3	31	nmod	nmod	0
+15	31	nmod	nmod	1
+7	31	nmod	nmod	1
+14	31	nmod	nmod	1
+7	18	compound	nmod	0
+9	18	compound	nmod	1
+6	16	compound	nmod	0
+11	16	compound	nsubj	1
+
+passage:11206082
+11	27	nmod	nmod	0
+2	27	amod	nmod	1
+19	49	nmod	nmod	0
+26	49	compound	nmod	0
+11	49	appos	nmod	1
+1	30	dobj	dobj	1
+2	30	amod	dobj	1
+14	30	amod	dobj	0
+
+passage:11027905
+5	24	nmod	compound	0
+3	24	compound	compound	0
+3	9	nmod	nsubj	0
+15	35	nmod	nmod	0
+20	35	appos	nmod	0
+14	39	nmod	compound	0
+17	39	nmod	nsubj	0
+5	39	nmod	compound	0
+2	39	nmod	nsubj	0
+11	22	nsubj	compound	0
+9	15	nsubj	nmod	0
+6	15	compound	nmod	0
+
+passage:9334596
+17	65	nmod	nmod	0
+10	27	appos	nmod	1
+7	27	appos	appos	0
+11	19	compound	nmod	0
+4	19	nmod	nmod	0
+6	19	compound	nmod	0
+1	19	nmod	nmod	0
+5	8	compound	nsubjpass	0
+3	68	compound	nmod	0
+22	68	compound	nmod	0
+14	35	nmod	nmod	1
+7	23	nmod	nmod	0
+8	35	nsubjpass	nmod	1
+11	20	nmod	nmod	1
+1	20	nmod	nmod	0
+
+passage:8595686
+1	10	compound	nmod	0
+2	10	compound	nmod	1
+1	12	compound	dobj	1
+5	24	nsubj	nmod	1
+10	24	nsubj	nmod	0
+2	24	compound	nmod	1
+
+passage:6466532
+4	23	nmod	nmod	0
+8	23	nmod	nmod	0
+8	23	nmod	nmod	1
+9	23	nmod	nmod	0
+13	23	nmod	nmod	0
+4	23	nmod	nmod	0
+27	46	compound	dobj	0
+17	46	compound	dobj	0
+4	46	nmod	dobj	1
+37	46	nmod	dobj	0
+27	46	nmod	dobj	0
+6	46	nmod	dobj	0
+
+passage:6308277
+2	7	compound	nmod	0
+3	7	nmod	nmod	0
+3	38	nmod	dobj	0
+6	38	nmod	dobj	0
+8	75	nmod	nmod	0
+7	75	nmod	nmod	1
+16	22	nmod	nmod	0
+9	22	nmod	nmod	1
+8	46	nsubj	dobj	0
+14	46	nmod	dobj	1
+12	46	nmod	dobj	1
+
+passage:2870085
+4	9	nsubj	nmod	0
+2	9	amod	nmod	1
+6	10	nsubj	nmod	0
+4	19	compound	nmod	0
+7	19	compound	nmod	0
+
+passage:1639466
+7	15	compound	nmod	0
+6	15	nmod	nmod	1
+3	15	compound	nmod	0
+10	15	nmod	nmod	0
+28	49	nmod	nmod	1
+38	49	nmod	appos	0
+3	49	nmod	nmod	0
+18	49	dobj	nmod	0
+35	49	compound	appos	0
+25	49	compound	nmod	0
+28	49	dobj	appos	0
+7	49	nmod	appos	0
+7	52	amod	compound	0
+21	52	amod	compound	0
+5	18	compound	nsubj	0
+2	36	dep	nsubj	1
+28	36	dep	compound	0
+6	31	amod	compound	0
+5	31	amod	compound	0
+17	60	dep	nmod	0
+33	60	amod	nmod	0
+
+passage:1527456
+7	18	appos	nmod	0
+6	28	appos	dobj	0
+
+passage:220563
+2	4	root	conj	1
+8	35	nmod	nsubjpass	1
+23	35	nmod	nmod	0
+
+passage:137340
+2	10	amod	nmod	1
+3	14	amod	nmod	1
+2	15	nmod	dobj	1
+4	13	nmod	nsubjpass	1
+1	13	nmod	nsubjpass	0
+6	13	amod	nsubjpass	1
+16	27	nsubj	nmod	1
+3	27	nsubj	nmod	0
+4	27	nmod	nmod	1
+20	31	nmod	nmod	0
+5	31	compound	nmod	0
+
+passage:9931093
+2	8	amod	nmod	1
+3	14	nmod	nmod	1
+8	14	nmod	nmod	1
+8	70	nmod	nmod	1
+46	70	nmod	nmod	1
+2	22	amod	nmod	1
+9	22	nmod	nmod	0
+1	8	amod	dobj	1
+
+passage:20633755
+1	11	nsubj	dobj	1
+1	15	nsubj	dobj	1
+10	15	nmod	dobj	1
+12	21	nmod	nsubj	1
+
+passage:20067456
+3	22	nmod	nmod	0
+4	22	nmod	nmod	0
+4	50	nmod	nsubj	0
+21	50	compound	nsubj	0
+4	26	nmod	nmod	0
+4	14	nmod	nmod	0
+4	14	nsubj	nmod	0
+
+passage:18464113
+15	20	root	compound	0
+6	20	root	compound	0
+5	20	appos	compound	0
+4	20	appos	compound	1
+27	35	dobj	compound	0
+21	35	dobj	nmod	0
+18	35	dobj	dobj	0
+1	26	compound	nsubjpass	0
+16	30	nsubj	compound	0
+
+passage:18308784
+1	12	nsubj	dobj	0
+6	12	compound	dobj	1
+11	15	nsubj	dobj	0
+9	15	nmod	dobj	0
+2	27	nmod	nmod	0
+5	27	compound	nmod	1
+
+passage:17931375
+5	18	compound	nmod	1
+1	18	compound	nmod	1
+2	29	nmod	nmod	1
+11	29	nmod	nmod	1
+23	43	nmod	nmod	1
+19	43	nmod	nmod	1
+3	17	nmod	nmod	1
+5	23	nmod	nmod	1
+9	23	nmod	nmod	1
+
+passage:15649445
+1	19	nsubj	dobj	1
+4	19	compound	dobj	0
+9	19	compound	dobj	1
+11	29	nsubj	appos	1
+7	29	amod	appos	1
+1	20	nmod	dobj	1
+7	20	compound	dobj	1
+8	18	compound	nmod	0
+
+passage:14698717
+4	11	nmod	root	0
+5	11	nmod	amod	0
+6	17	compound	amod	0
+3	17	compound	dobj	0
+1	17	compound	nmod	0
+6	27	compound	nsubj	0
+4	27	compound	compound	0
+13	27	compound	nmod	0
+
+passage:12617329
+2	16	compound	nmod	0
+2	16	nmod	nmod	0
+5	24	appos	nmod	1
+10	24	nmod	dep	0
+3	24	appos	dep	0
+2	24	nmod	nmod	1
+10	38	nmod	nsubjpass	0
+6	38	nmod	nsubjpass	0
+10	38	appos	nsubjpass	0
+18	96	nmod	dep	0
+14	96	nmod	dep	0
+57	96	dobj	dep	0
+54	96	dobj	dep	0
+17	96	nmod	dep	1
+2	25	compound	nmod	0
+14	25	compound	nmod	0
+
+passage:12523465
+1	5	nmod	nsubj	1
+10	14	nsubj	nmod	0
+10	38	compound	dobj	1
+
+passage:11961407
+4	12	compound	nmod	0
+3	12	compound	nmod	1
+9	18	appos	nsubjpass	1
+27	64	compound	nmod	0
+24	64	compound	nmod	1
+
+passage:9401499
+1	15	amod	root	1
+2	23	amod	nmod	1
+5	21	nmod	nsubj	1
+2	13	amod	nmod	1
+
+passage:2273650
+2	40	nmod	nsubjpass	1
+23	40	nsubj	nsubjpass	0
+6	40	nmod	nsubjpass	1
+33	40	dobj	nsubjpass	0
+12	24	amod	dobj	1
+2	24	amod	dobj	1
+
+passage:10683478
+18	35	nsubjpass	dobj	1
+9	35	compound	dobj	0
+16	35	appos	dobj	0
+2	19	amod	nmod	1
+2	17	nmod	nmod	1

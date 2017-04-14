@@ -1,0 +1,17 @@
+nmod	2472
+compound	870
+dobj	728
+amod	726
+nsubj	458
+nsubjpass	250
+appos	209
+root	188
+dep	102
+conj	61
+advcl	12
+xcomp	9
+acl	4
+parataxis	3
+ccomp	2
+advmod	1
+nummod	1
